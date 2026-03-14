@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Hanpaemo.MinimalistTowerDefense.KoreanPatch</AssemblyName>
+    <RootNamespace>Hanpaemo.MinimalistTowerDefense</RootNamespace>
+    <OutputPath>..\patch\BepInEx\plugins\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETFramework.ReferenceAssemblies.net472" Version="1.0.3" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BepInEx">
+      <HintPath>..\lib\bepinex-core\BepInEx.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="0Harmony">
+      <HintPath>..\lib\bepinex-core\0Harmony.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+<Reference Include="Assembly-CSharp">
+      <HintPath>D:\SteamLibrary\steamapps\common\Minimalist Tower Defense\Minimalist Tower Defense_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>D:\SteamLibrary\steamapps\common\Minimalist Tower Defense\Minimalist Tower Defense_Data\Managed\UnityEngine.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>D:\SteamLibrary\steamapps\common\Minimalist Tower Defense\Minimalist Tower Defense_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>D:\SteamLibrary\steamapps\common\Minimalist Tower Defense\Minimalist Tower Defense_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreTextEngineModule">
+      <HintPath>D:\SteamLibrary\steamapps\common\Minimalist Tower Defense\Minimalist Tower Defense_Data\Managed\UnityEngine.TextCoreTextEngineModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextCoreFontEngineModule">
+      <HintPath>D:\SteamLibrary\steamapps\common\Minimalist Tower Defense\Minimalist Tower Defense_Data\Managed\UnityEngine.TextCoreFontEngineModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="UnityEngine.TextRenderingModule">
+      <HintPath>D:\SteamLibrary\steamapps\common\Minimalist Tower Defense\Minimalist Tower Defense_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>D:\SteamLibrary\steamapps\common\Minimalist Tower Defense\Minimalist Tower Defense_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

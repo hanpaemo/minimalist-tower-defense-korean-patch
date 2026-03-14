@@ -1,0 +1,903 @@
+term,description,english,translation
+Game_Difficulty_SelectPanel_Title,,Difficulty Level,난이도
+Game_Difficulty_SelectPanel_Describe,,You can change Difficulty Level any time on Stage Info Panel ,스테이지 정보 패널에서 언제든지 난이도를 변경할 수 있습니다
+Game_Difficulty_Normal,,Normal,보통
+Game_Difficulty_Normal_Desc,,"Classic Difficulty Level|Decreased number and health of enemies, Enemies arrive later|Can also unlock achievements",기본 난이도|적의 수와 체력 감소, 적이 더 늦게 출현|업적 달성 가능
+Game_Difficulty_Hard,,Hard,어려움
+Game_Difficulty_Hard_Desc,,Hard Difficulty Level|Increased number and health of enemies|Suitable for players skilled in Tower Defense games to choose from,어려운 난이도|적의 수와 체력 증가|타워 디펜스에 숙련된 플레이어에게 적합
+Game_Difficulty_Expert,,Expert,극한
+Game_Difficulty_Expert_Desc,,"True Minimalist Tower Defense|Enemy numbers, health, and abilities have all been increased|It is not recommended to choose this Difficulty Level for the first time playing","진정한 미니멀리스트 타워 디펜스|적의 수, 체력, 능력이 모두 증가|첫 플레이시 권장하지 않는 난이도입니다"
+Game_Difficulty_Legend,,Legend,전설
+Game_Difficulty_Legend_Desc,,"True Minimalist Tower Defense|Enemy numbers, health, and abilities have all been increased|It is not recommended to choose this Difficulty Level for the first time playing","진정한 미니멀리스트 타워 디펜스|적의 수, 체력, 능력이 모두 증가|첫 플레이시 권장하지 않는 난이도입니다"
+Game_GameMode_ClassicName,,Classic,클래식
+Game_GameMode_ClassiCooldownescribe,,Survive for few days to win,일정 일수를 버텨 승리하세요
+Game_GameMode_LockTowerName,,Permanent Tower,고정 타워
+Game_GameMode_LockTowerDescribe,,Survive withPermanent Tower for few days to win,지정된 방어탑으로 일정 일수를 버텨 승리하세요
+Game_SupportPack_CheatMode,,Supporter Pack Towers,서포터 팩 타워
+Game_SupportPack_CheatMode_Desc,,"Obtained all the hidden towers in the game under normal conditions, designed by sponsors from the early development stages. Their excessively powerful effects may diminish the game's enjoyment","개발 초기 후원자가 설계한 숨겨진 방어탑을 모두 획득합니다. 지나치게 강력한 효과로 게임의 재미가 줄어들 수 있습니다"
+Level_Text_LastDay,,The Last Day,마지막 날
+Level_Text_LastNight,,Night Fall,해질녘
+Level_Text_Clear,,Sunrise,해돋이
+Level_Text_Snowy_Lv1,,Piercing wind,매서운 바람
+Level_Text_Snowy_Lv2,,Coldwave arrived,한파 도래
+Level_Text_Snowy_Lv3,,Vicious Frost,혹독한 서리
+Level_Text_Snowy_Lv4,,Little Ice age,소빙하기
+Level_Text_Windy_Lv1,,Be raging like a storm,풍운이 일다
+Level_Text_Windy_Lv2,,Fierce wind blows,광풍이 몰아치다
+Level_Text_Windy_Lv3,,Storm arrived,폭풍이 도래하다
+Level_Text_Windy_Lv4,,Eternal howling Hurricane,끝없는 폭풍
+Level_Text_Storm_Lv1,,Thunderstorm,뇌우
+Level_Text_Storm_Lv2,,Lightning and thunder,번개와 천둥
+Level_Text_Storm_Lv3,,A Sound of Thunder,천둥의 울림
+Level_Text_Storm_Lv4,,Electrical storm,전기 폭풍
+Level_Text_Heatwave_Lv1,,A scorching day,작열의 날
+Level_Text_Heatwave_Lv2,,Scorching sun,이글거리는 태양
+Level_Text_Heatwave_Lv3,,Heat was blazing,쇳물이 녹는 열기
+Level_Text_Heatwave_Lv4,,Thousand li of parched land,천리에 걸친 메마른 땅
+Level_Text_Eclipse,,Fragile Tower,취약한 탑
+Level_Text_Cloudy,,Resource Exhaustion,자원 고갈
+Level_Text_PolarNight,,Endless Night,기나긴 밤
+Level_Text_TheLastTowerText1,,Dawn breaking,여명이 밝아오다
+Level_Text_TheLastTowerText2,,Final moment,최후의 순간
+Level_Text_EXLevelText1A,,The Cube of Truth,진리의 정육면체
+Level_Text_EXLevelText1B,,Wisdom,지혜
+Level_Text_EXLevelText3A,,Finally,마침내
+Level_Text_EXLevelText3B,,We achieved...,우리는 도달했다...
+Level_Text_EXLevelText4A,,Catastrophe,재앙
+Level_Text_EXLevelText4B,,Price,대가
+Level_Text_EXLevelText5A,,Dark Sun,흑일
+Level_Text_EXLevelText5B,,Order and Truth,질서와 진리
+Level_1-1_Name,,The Sun Tower,일광의 탑
+Level_1-2_Name,,Upgrade,업그레이드
+Level_1-3_Name,,Valley Exit,산골 출구
+Level_1-4_Name,,Bab-el-Mandeb,만데브 해협
+Level_1-5_Name,,Scylla and Charybdis,사면초가
+Level_1-6_Name,,Mountain Raid,산간 소로
+Level_1-7_Name,,Coordinate System,좌표계
+Level_1-8_Name,,Gangetic Plains,갠지스 평원
+Level_1-A_Name,,Mountain and River,산과 물
+Level_1-B_Name,,Replace,교체
+Level_2-1_Name,,The Last Autumn,마지막 가을
+Level_2-2_Name,,Blitz,전격전
+Level_2-3_Name,,Right Region,절선
+Level_2-4_Name,,The Hengduan Mountains,횡단산맥
+Level_2-5_Name,,Namtso,산중호
+Level_2-6_Name,,Converge,지류
+Level_2-7_Name,,Refraction,굴절
+Level_2-8_Name,,Peak of Mount Everest,에베레스트 정상
+Level_2-A_Name,,Strict Budget,알뜰살뜰
+Level_3-1_Name,,Corner,전환점
+Level_3-2_Name,,Frontline,전초 기지
+Level_3-3_Name,,Mountain Valley,좁은 길의 대결
+Level_3-4_Name,,Huai River,회하
+Level_3-5_Name,,One-Third,3분의 1
+Level_3-6_Name,,Mobius Band,뫼비우스 띠
+Level_3-7_Name,,Loess Plateau,황토 고원
+Level_3-8_Name,,The Great Wall,만리장성
+Level_3-A_Name,,Rapid Upgrade,초고속 발전
+Level_4-1_Name,,Ambush,매복
+Level_4-2_Name,,Long-Range Attack,장거리 제압
+Level_4-3_Name,,Watchtower,전망대
+Level_4-4_Name,,West Siberian Plain,서시베리아 평원
+Level_4-5_Name,,Spawner,전송 노드
+Level_4-6_Name,,Besiege,포위
+Level_4-7_Name,,Retreat,후퇴
+Level_4-8_Name,,The Battle of Moscow,모스크바 공방전
+Level_4-A_Name,,Targeting,우선 타격
+Level_5-1_Name,,Parallel Lines,평행선
+Level_5-2_Name,,Scandinavia,험준한 지대
+Level_5-3_Name,,Bigbang,빅뱅
+Level_5-4_Name,,Land Berlin,베를린 공방전
+Level_5-5_Name,,Ligne Maginot,마지노선
+Level_5-6_Name,,Above and Beyond,끝없이 위로
+Level_5-7_Name,,Labyrinth,미로
+Level_5-8_Name,,Empire the Sun Never Sets,해가 지지 않는 제국
+Level_5-A_Name,,Hotter and Hotter,고온 시간
+Level_5-S_Name,,T.V.G.,T.V.G.
+Level_6-1_Name,,Vortex,소용돌이
+Level_6-2_Name,,Canyon War,협곡 전쟁
+Level_6-3_Name,,Breakout,돌파
+Level_6-4_Name,,Fujiyama,후지산
+Level_6-5_Name,,Sahara Desert,사하라 사막
+Level_6-6_Name,,Mount,상감
+Level_6-7_Name,,Centripetal Acceleration,구심 가속도
+Level_6-8_Name,,Cape of Good Hope,폭풍의 곶
+Level_7-1_Name,,Frozen Fortress,한원의 요새
+Level_7-2_Name,,East Siberian Mountains,빙봉 산지
+Level_7-3_Name,,Polar Aurora,극지 오로라
+Level_7-4_Name,,Bering Strait,베링 해협
+Level_7-5_Name,,Star Ridge,성광 산맥
+Level_7-6_Name,,The Great Plains,대평원
+Level_7-7_Name,,Suburban New York,뉴욕 외곽
+Level_7-8_Name,,The Last Tower,최후의 탑
+Level_EX-1_Name,,Close-quarter fight,백병전
+Level_EX-2_Name,,Hyper Blast,폭파 작전
+Level_EX-3_Name,,Narrow track,양장소도
+Level_EX-4_Name,,Refractive choice,선택적 굴절
+Level_EX-5_Name,,Beach Head,해상 기습
+Level_EX-6_Name,,Trench warfare,참호전
+Level_EX-7_Name,,Portal,전송문
+Level_EX-8_Name,,South Pole,남극점
+Level_SC-1_Name,,Arena,경기장
+Level_SC-2_Name,,Happy April Fool's Day,만우절
+Level_SC-3_Name,,Economic Crisis,경제 위기
+Level_SC-4_Name,,SunTower Mom,일광탑 엄마
+Level_SC-5_Name,,Striving Arrow Tower,열심히 노력하는 화살탑
+Level_SC-6_Name,,Halloween Eve,할로윈 전야
+Level_SC-7_Name,,Ghost Night,유령의 밤
+Level_SC-8_Name,,Long-Range shot,초장거리 타격
+Level_SC-9_Name,,Halloween Party ,할로윈 파티
+Level_SC-10_Name,,Eternal Minimalist Tower Defense,영원한 미니멀리스트 타워 디펜스
+Level_SC-11_Name,,Christmas Eve,크리스마스 이브
+Level_SC-12_Name,,Merry Christmas,메리 크리스마스
+Level_SC-13_Name,,Spring Festival,설날
+Game_Mission_Preserve,,Survive for {x} day to win,{x}일을 버텨 승리하세요
+TowerElement_NormalElement_AttackPowerDescribe,,Damage of each Bullet from Tower,방어탑의 탄환당 데미지
+TowerElement_NormalElement_AttackPowerName,,Damage,공격력
+TowerElement_NormalElement_AttackRangeDescribe,,Maximum distance the tower can lock on to a target,방어탑이 목표를 포착할 수 있는 최대 거리
+TowerElement_NormalElement_AttackRangeName,,Range,사거리
+TowerElement_NormalElement_AttackTimeDescribe,,Cooldown After each Attack (in second),방어탑의 공격 간격 (초)
+TowerElement_NormalElement_AttackTimeName,,Attack Cooldown,공격 간격
+TowerElement_NormalElement_BounceTimesDescribe,,Number of times bullets fired from the Tower can Bounce off Walls,방어탑이 발사한 탄환이 벽에 반사되는 횟수
+TowerElement_NormalElement_BounceTimesName,,Bounce,반사
+TowerElement_NormalElement_BulletIntervalAngleDescribe,,Angle between Bullets when multiple Bullets are fired from Tower at the same time,방어탑이 동시에 여러 탄환을 발사할 때 탄환 사이의 각도
+TowerElement_NormalElement_BulletIntervalAngleName,,Bullet Scattering,탄환 산란
+TowerElement_NormalElement_BulletNumberDescribe,,Number of Bullets fired by the Tower in a single Attack,방어탑이 1회 공격 시 발사하는 탄환 수
+TowerElement_NormalElement_BulletNumberName,,Bullet Number,탄환 수
+TowerElement_NormalElement_BulletSpeedDescribe,,The Speed of the Bullets,탄환의 비행 속도
+TowerElement_NormalElement_BulletSpeedName,,Bullet Speed,탄환 속도
+TowerElement_NormalElement_ComboCountDescribe,,Times of bullets fired by the tower in a single attack (in second),방어탑이 1회 공격 시 탄환을 발사하는 횟수
+TowerElement_NormalElement_ComboCountName,,Burst,연사
+TowerElement_NormalElement_ComboTimeDescribe,,Time interval between two Consecutive Attacks in Burst,연사 간 시간 간격
+TowerElement_NormalElement_ComboTimeName,,Burst Cooldown,연사 간격
+TowerElement_NormalElement_MaxHealthDescribe,,"When Towers HP falls down to 0, then the Tower will be break until the next Day","방어탑의 체력이 0이 되면 다음 날까지 파괴됩니다"
+TowerElement_NormalElement_MaxHealthName,,Max HP,최대 체력
+TowerElement_NormalElement_PenetrationTimesDescribe,,Number of times Bullets fired from the Tower are able to penetrate the Enemy,방어탑이 발사한 탄환이 적을 관통하는 횟수
+TowerElement_NormalElement_PenetrationTimesName,,Penetration,관통
+TowerElement_SpecialElement_ExplotionRadioDescribe,,Radius of explosions from the Tower,방어탑의 폭발 반경
+TowerElement_SpecialElement_ExplotionRadioName,,Explosion Radius,폭발 반경
+TowerElement_SpecialElement_HealPowerDescribe,,Lifesteal restoration caused by the Tower,방어탑의 체력 회복량
+TowerElement_SpecialElement_HealPowerName,,Healing,치유량
+TowerElement_SpecialElement_HealthRecoverDescribe,,HP the tower regenerated per second,방어탑이 초당 자연 회복하는 체력
+TowerElement_SpecialElement_HealthRecoverName,,HP Regeneration,체력 재생
+TowerElement_SpecialElement_MoneyProductionDescribe,,Number of Golds produced by the Tower per Time,방어탑이 매회 생산하는 골드 수
+TowerElement_SpecialElement_MoneyProductionName,,Gold Production,골드 생산량
+TowerElement_SpecialElement_RockProductionDescribe,,Number of Crystals produced by the Tower per Time,방어탑이 매회 생산하는 크리스탈 수
+TowerElement_SpecialElement_RockProductionName,,Crystal Production,크리스탈 생산량
+TowerElement_SpecialElement_ShrapnelNumberDescribe,,Maximum number of enemies damaged by a single explosion,1회 폭발로 피해를 입힐 수 있는 최대 적 수
+TowerElement_SpecialElement_ShrapnelNumberName,,Shrapnel Number,파편 수
+TowerElement_SpecialElement_ProduceTimeDescribe,,Cooldown the Production of each time  (in second),자원 생산 간격 (초)
+TowerElement_SpecialElement_FreezeTimeName,,Freeze Time,빙결 시간
+TowerElement_SpecialElement_FreezeTimeDescribe,,Duration of the Freezing Effect caused by the Tower  (in second),방어탑의 빙결 효과 지속 시간 (초)
+TowerElement_SpecialElement_BurnTimeName,,Burn Time,화상 시간
+TowerElement_SpecialElement_BurnTimeDescribe,,Duration of the Burning Effect caused by the Tower  (in second),방어탑의 화상 효과 지속 시간 (초)
+TowerElement_SpecialElement_MoneyProduceTimeName,,Gold Production Cooldown,골드 생산 간격
+TowerElement_SpecialElement_MoneyProduceTimeDescribe,,Cooldown After Produce Gold (in second),골드 생산 간격 (초)
+TowerElement_SpecialElement_RockProduceTimeName,,Crystal Production Cooldown,크리스탈 생산 간격
+TowerElement_SpecialElement_RockProduceTimeDescribe,,Cooldown After Produce Crystal (in second),크리스탈 생산 간격 (초)
+UI_Level_HotKeyText,,HotKey,단축키
+UI_Level_ShiftText,,(+Lshift: Select Next),(+좌Shift: 다음 선택)
+UI_Level_BuildButtonCostText,,Cost,비용
+UI_Level_DegradeButtonDescribe,,"Degrade the Tower, return half of the costed Golds and All of the Crystals on this upgrade","방어탑을 이전 등급으로 되돌리고, 해당 등급 업그레이드에 소비한 골드의 절반과 크리스탈 전부를 반환합니다"
+UI_Level_DegradeButtonName,,Degrade,등급 하락
+UI_Level_MoneyPanelDescribe,,For Build and Upgrade the Towers,방어탑 건설 및 업그레이드에 사용
+UI_Level_MoneyPanelName,,Gold,골드
+UI_Level_SwapButtonName,,Move Up,위로 이동
+UI_Level_SwapButtonDescribe,,"Left click on the Move Up Button, or right click on the selected tower to Move It Up","위로 이동 버튼을 좌클릭하거나, 선택된 타워를 우클릭하여 위로 이동"
+UI_Level_PreparePanelSelectButtonName,,Tower,방어탑
+UI_Level_PreparePanelStartButtonDescribe,,Finish the preparatory phase and start the day,준비 단계를 마치고 게임을 시작합니다
+UI_Level_PreparePanelStartButtonName,,Start,시작
+UI_Level_PreparePanelStartSelectDescribe,,Choose Your Tower,방어탑을 선택하세요
+UI_Level_PreparePanelTitle,,Choose Your Tower,방어탑 선택
+UI_Level_RockPanelDescribe,,"For Tower upgrade, represented by C, Upgrade the Sun Tower to Increase Crystal Production","방어탑 업그레이드에 사용, C로 표시. 일광탑을 업그레이드하여 크리스탈 생산량 증가"
+UI_Level_RockPanelName,,Crystal,크리스탈
+UI_Level_SelectPanel_ChooseTitle,,Select,선택
+UI_Level_SelectPanel_No,,NO,아니오
+UI_Level_SelectPanel_Yes,,YES,예
+UI_Level_SellButtonDescribe,,"Destruct the Tower, return half of the costed Golds and All of the Crystals from the Tower","방어탑을 철거하고, 소비한 골드의 절반과 크리스탈 전부를 반환합니다"
+UI_Level_SellButtonName,,Sell,판매
+UI_Level_StrenghPanel_Describe,,Strange from both sides,양측의 대략적인 전력
+UI_Level_StrenghPanel_Name,,Strange,전력
+UI_Level_TimePanelDayText,,Day,Day
+UI_Level_TimePanelDescribe,,Enemy will be more with the game time,"시간이 지남에 따라 적이 계속 증가합니다"
+UI_Level_TimePanelName,,Time,시간
+UI_Level_TimeScaleButtonDescribe0x,,Pause game (Space),게임 일시정지 (스페이스)
+UI_Level_TimeScaleButtonDescribe1x,,Play with Normal Speed (TAB),1배속으로 게임 진행 (TAB)
+UI_Level_TimeScaleButtonDescribe2x,,Play with 1.5X Speed (TAB),1.5배속으로 게임 진행 (TAB)
+UI_Level_TimeScaleButtonDescribe3x,,Play with 2.0X Speed (TAB),2배속으로 게임 진행 (TAB)
+UI_Level_TimeScaleButtonName0x,,Pause,일시정지
+UI_Level_TimeScaleButtonName1x,,Normal Speed,보통 속도
+UI_Level_TimeScaleButtonName2x,,1.5X Speed,1.5배속
+UI_Level_TimeScaleButtonName3x,,2.0X Speed,2배속
+UI_Level_LevelMenuName,,Menu,메뉴
+UI_Level_LevelMenuDescribe,,Open the Menu(ESC),메뉴 열기 (ESC)
+UI_Level_LevelMenuOpinion,,Setting,설정
+UI_Level_LevelMenuRestart,,Restart,다시 시작
+UI_Level_LevelMenuExit,,Quit,나가기
+UI_Level_LevelMenuConfirmExitDescribe,,Quit the Stage?,스테이지에서 나가시겠습니까?
+UI_Level_LevelMenuConfirmRestartDescribe,,Restart,다시 시작
+UI_Level_LevelMenuSelectDescribe2,,Restart the Stage?,스테이지를 다시 시작하시겠습니까?
+UI_MainMenu_Exit,,Quit,종료
+UI_MainMenu_Opinion,,Setting,설정
+UI_MainMenu_Opinion_DamageNumber,,Damage Display,데미지 표시
+UI_MainMenu_Opinion_DisplayMode,,Display Mode,화면 모드
+UI_MainMenu_Opinion_DisplayMode_FullScreen,,Full Screen,전체 화면
+UI_MainMenu_Opinion_DisplayMode_Window,,Window,창 모드
+UI_MainMenu_Opinion_Language,,Language,언어
+UI_MainMenu_Opinion_Music,,Music,음악
+UI_MainMenu_Opinion_OFF,,OFF,끄기
+UI_MainMenu_Opinion_ON,,ON,켜기
+UI_MainMenu_Opinion_Partical,,Particle,이펙트
+UI_MainMenu_Opinion_ParticalLevel_Low,,Part,일부
+UI_MainMenu_Opinion_ParticalLevel_None,,None,없음
+UI_MainMenu_Opinion_ParticalLevel_Normal,,Full,전체
+UI_MainMenu_Opinion_Resolution,,Resolution,해상도
+UI_MainMenu_Opinion_SoundEffect,,Sounds,효과음
+UI_MainMenu_Opinion_AutoBorderMove,,Edge Scrolling,화면 가장자리 이동
+UI_MainMenu_Opinion_MovementMode,,Drag Movement,화면 드래그
+UI_MainMenu_Opinion_MovementLeft,,Only Left click,좌클릭만
+UI_MainMenu_Opinion_MovementRight,,Only Right click,우클릭만
+UI_MainMenu_Opinion_MovementAll,,Left or right click,좌클릭 또는 우클릭
+UI_MainMenu_Opinion_Title_Localize,,Localization,언어 설정
+UI_MainMenu_Opinion_Title_Sound,,Audio,사운드
+UI_MainMenu_Opinion_Title_Display,,Display,화면
+UI_MainMenu_Opinion_Title_Graphic,,Graphic,그래픽
+UI_MainMenu_Opinion_Title_Contorler,,Control,조작
+UI_MainMenu_Start,,Start,게임 시작
+UI_AboutPanel_Title,,Thanks for your playing!,플레이해 주셔서 감사합니다!
+UI_AboutPanel_Info,,"<size=44><color=#ffffff>Game Designer and Developer</size></color>
+Happy213
+
+
+<size=44><color=#ffffff>Game Art and Music</size></color>
+Unity Asset Store
+
+
+<size=44><color=#ffffff>Localization and Proofreading</size></color>
+Atres
+旋律星萤
+
+
+<size=44><color=#ffffff>Data Analysis and Limit Detection</size></color>
+Dec128
+StarPM
+
+
+<size=44><color=#ffffff>Game Testing and Community Management</size></color>
+20086lr
+456Kingo8
+Atres
+Dec128
+G_Lemon
+Hickey
+lostider
+Moyu
+timee
+StarPM
+Ws菜鸡
+阿叶Aye
+一只凉辰
+不枯花
+乳主分子
+可可果
+奇硅箱
+小宇宇
+往事
+戏者-秀仙
+旋律星萤
+星辉XH
+杂牌土豆粉
+狐狸
+西瓜西下
+阳春三月
+雨奈奈奈萘
+
+
+<size=44><color=#ffffff>And You！</size></color>
+
+","<size=44><color=#ffffff>게임 디자인 및 개발</size></color>
+Happy213
+
+
+<size=44><color=#ffffff>게임 아트 및 음악</size></color>
+Unity Asset Store
+
+
+<size=44><color=#ffffff>현지화 및 교정</size></color>
+Atres
+旋律星萤
+
+
+<size=44><color=#ffffff>한국어 번역</size></color>
+한패모 (hanpaemo)
+
+
+<size=44><color=#ffffff>데이터 분석 및 극한 테스트</size></color>
+Dec128
+StarPM
+
+
+<size=44><color=#ffffff>게임 테스트 및 커뮤니티 관리</size></color>
+20086lr
+456Kingo8
+Atres
+Dec128
+G_Lemon
+Hickey
+lostider
+Moyu
+timee
+StarPM
+Ws菜鸡
+阿叶Aye
+一只凉辰
+不枯花
+乳主分子
+可可果
+奇硅箱
+小宇宇
+往事
+戏者-秀仙
+旋律星萤
+星辉XH
+杂牌土豆粉
+狐狸
+西瓜西下
+阳春三月
+雨奈奈奈萘
+
+
+<size=44><color=#ffffff>그리고 당신!</size></color>
+
+"
+UI_Map_BackToMapButton_Title,,Back,돌아가기
+UI_Map_BackToMapButton_Describe,,Back to Map,지도로 돌아가기
+UI_Map_BackToMenuButton_Title,,Back,돌아가기
+UI_Map_BackToMenuButton_Describe,,Back to Menu,메인 메뉴로 돌아가기
+UI_Map_GoToTechMapButton_Title,,Research,연구
+UI_Map_GoToTechMapButton_Describe,,Start to Research,연구 화면으로 이동
+UI_TechMap_Confirm,,Conform to Research,연구 확인
+UI_TechMap_Poor,,Coins not enough,자금 부족
+UI_Map_AchievementButton_Title,,Achievements,업적
+UI_Map_AchievementButton_Describe,,Open the Achievement panel,업적 패널 열기
+UI_Map_LevelInfoPanel_ChallengeBlockName,,Selected Challenge,현재 도전
+UI_Map_LevelInfoPanel_ChallengeNotPassedText,,Unfinished,미완료
+UI_Map_LevelInfoPanel_ChallengeHasPassedText,,Finished,완료
+UI_Map_LevelInfoPanel_ChallengeName,,Challenge,도전
+UI_Map_LevelInfoPanel_ChallengeSelectButtonDescribe,,Select Challenge,도전 선택
+UI_Map_LevelInfoPanel_ChallengeSelectButtonName,,Select Challenge,도전 변경
+UI_Map_LevelInfoPanel_ChapterName,,Chapter,챕터
+UI_Map_LevelInfoPanel_DayName,,Day,일차
+UI_Map_LevelInfoPanel_Morning,,Day,새벽
+UI_Map_LevelInfoPanel_Afternoon,,Dusk,황혼
+UI_Map_LevelInfoPanel_Evening,,Night,밤
+UI_Map_LevelInfoPanel_DifficultySelectButtonDescribe,,"Choose Difficulty Level, unlock the ""Legend"" Difficulty of this level after completing it (NO additional rewards)","난이도를 변경합니다. 해당 스테이지를 클리어하면 ""전설"" 난이도가 해금됩니다 (추가 보상 없음)"
+UI_Map_LevelInfoPanel_DifficultySelectButtonName,,Difficulty,난이도
+UI_Map_LevelInfoPanel_HpRateButtonTMP,,HP {x}x,배율 {x}x
+UI_Map_LevelInfoPanel_HpRateButtonDescribe,,"After completing the ""Legend"" difficulty level, you can freely adjust the enemy's health multiplier, but this operation may make the level unsolvable","""전설"" 난이도를 클리어한 후, 적 체력 배율을 자유롭게 조절할 수 있습니다. 단, 스테이지가 클리어 불가능해질 수 있습니다"
+UI_Map_LevelInfoPanel_HpRateButtonName,,Enemy HP multiplier,적 체력 배율
+UI_Map_LevelInfoPanel_GamemodeBlockName,,Gamemode,게임 모드
+UI_Map_LevelInfoPanel_LevelEventTextDescribe,,Buff in this stage,해당 스테이지의 특성 (날씨 등)
+UI_Map_LevelInfoPanel_LevelEventTextName,,Stage Effect,스테이지 특성
+UI_Map_LevelInfoPanel_LevelEnemyTextDescribe,,Enemies' Type,해당 스테이지에 출현하는 적 유형
+UI_Map_LevelInfoPanel_LevelEnemyTextName,,Enemies,출현 적
+UI_Map_LevelInfoPanel_LevelName,,Stage,스테이지
+UI_Map_LevelInfoPanel_LevelTimeBlockName,,Game Time,스테이지 시간
+UI_Map_LevelInfoPanel_NoChallengeText,,Campaign,캠페인
+UI_Map_LevelInfoPanel_StartButtonDescribe,,Start a new game,새 게임을 시작합니다
+UI_Map_LevelInfoPanel_StartButtonName,,Start,시작
+UI_Map_LevelInfoPanel_StartResourceBlockName,,Starting Resource,초기 자원
+UI_Map_LevelInfoPanel_LevelInfoTextName,,Stage Info,스테이지 정보
+UI_Map_LevelInfoPanel_LevelChallengeChooseTextName,,Select the Challenge,도전 선택
+UI_Map_LevelInfoPanel_TotalDay,,{x} Days in Total,총 {x}일
+Level_Tutorial_Mouse_Title,,Mouse,마우스 조작
+Level_Tutorial_Mouse_Describe,,Move the Map with Right button|Zoom in and out with scrolling Mouse,우클릭으로 지도 이동|스크롤로 화면 확대/축소
+Level_Tutorial_Touch_Title,,Touch,터치 조작
+Level_Tutorial_Touch_Describe,,Drag the Screen to move the Map|Zoom in and out with two Fingers,화면을 드래그하여 지도 이동|두 손가락으로 확대/축소
+Level_Tutorial_Build_Title,,Build,건설
+Level_Tutorial_Build_Describe,,"Click the Button, Build a Tower","버튼을 클릭하고, 위치를 선택하여 방어탑을 건설합니다"
+Level_Tutorial_Sell_Title,,Sell,판매
+Level_Tutorial_Sell_Describe,,"Destruct the Tower, return half of the costed Golds and All of the Crystals from the Tower","방어탑을 철거하고, 소비한 골드의 절반과 크리스탈 전부를 반환합니다"
+Level_Tutorial_Degrade_Title,,Degrade,등급 하락
+Level_Tutorial_Degrade_Describe,,"Degrade the Tower, return half of the costed Golds and All of the Crystals on this upgrade","방어탑을 이전 등급으로 되돌리고, 해당 등급 업그레이드에 소비한 골드의 절반과 크리스탈 전부를 반환합니다"
+Level_Tutorial_Upgrade_Title,,Basic Upgrade,기본 업그레이드
+Level_Tutorial_Upgrade_Describe,,Select the Tower and click the button below to Upgrade the Tower to Level II(Green)|The Sun Tower must upgrade at first,방어탑을 선택하고 하단 버튼을 클릭하여 녹색 등급으로 업그레이드|먼저 일광탑이 녹색 등급에 도달해야 합니다
+Level_Tutorial_TechLevel_Title,,Sun Tower Level,일광탑 등급
+Level_Tutorial_TechLevel_Describe,,Tower Upgrades and Builds are dependent on the Sun Tower Level,방어탑의 업그레이드와 건설은 일광탑 등급에 의존합니다
+Level_Tutorial_AdvancedUpgrade_Title,,Advanced Upgrade,고급 업그레이드
+Level_Tutorial_AdvancedUpgrade_Describe,,"When the Tower has Upgraded by Level II (Green), you can upgrade it to Level III (Blue)|Golds and Crystals are needed|The Sun Tower must upgrade at first","방어탑이 녹색 등급에 도달하면 청색 등급으로 업그레이드할 수 있습니다|골드와 크리스탈이 필요합니다|먼저 일광탑이 청색 등급에 도달해야 합니다"
+Level_Tutorial_Repack_Title,,Repack Upgrade,개조 업그레이드
+Level_Tutorial_Repack_Describe,,"When the Tower has Upgraded by Level III (Blue), then can be upgrade to Level IV (Purple)|Choose the Branch that you need|The Sun Tower must upgrade at first","방어탑이 청색 등급에 도달하면 보라색 등급으로 업그레이드할 수 있습니다|필요한 분기를 선택하세요|먼저 일광탑이 보라색 등급에 도달해야 합니다"
+Level_Tutorial_ToolButtons_Title,,Game Speed,게임 속도
+Level_Tutorial_ToolButtons_Describe,,"Click the button, can change the Game Speed|Pause the game, build and upgrade as you need","버튼을 클릭하여 게임 속도를 조절할 수 있습니다|일시정지 중에도 방어탑을 조작할 수 있습니다"
+Level_Tutorial_ShortCut_Title,,Hotkeys,단축키
+Level_Tutorial_ShortCut_Describe,,You'll see the Hotkeys when your mouse is over the button,버튼 위에 마우스를 올리면 해당 단축키를 확인할 수 있습니다|스페이스 키로 간편하게 일시정지/재개할 수 있습니다
+Level_Tutorial_Colder_Title,,Frozen Level Increase,한랭 등급 상승
+Level_Tutorial_Colder_Describe,,Upgrade Heat Generator to resist higher Frozen(weather) Level,열 발생기를 업그레이드하여 더 강한 한랭 등급에 대응하세요
+Level_Tutorial_Rock_Title,,Crystal,크리스탈
+Level_Tutorial_Rock_Describe,,"For Tower upgrade, represented by C, Upgrade the Sun Tower to Increase Crystal Production","방어탑 업그레이드에 사용, C로 표시. 일광탑을 업그레이드하여 크리스탈 생산량 증가"
+Level_Tutorial_LockedTower_Title,,Locked Tower,폐기된 방어탑
+Level_Tutorial_LockedTower_Describe,,"Tower wreckage, consume gold to destruct","골드를 소비하여 지도 위의 폐기된 방어탑을 철거하고 빈 공간을 확보합니다"
+Enemy_Square_Name,,Square,사각형
+Enemy_Square_Describe,,Medium HP|No special abilities,중간 체력|특수 능력 없음
+Enemy_Triangle_Name,,Triangle,삼각형
+Enemy_Triangle_Describe,,Low HP|Split small triangle at death|The number and size of triangles split are based on body size,낮은 체력|사망 시 분열|체형이 클수록 더 많은 삼각형으로 분열
+Enemy_Circal_Name,,Circal,원형
+Enemy_Circal_Describe,,Low HP|Equipped circular shield(high HP)|number of shields and shield HP is based on body size,낮은 체력|높은 체력의 원형 보호막 보유|체형이 클수록 보호막이 많아짐
+Enemy_Diamond_Name,,Rhomb,마름모
+Enemy_Diamond_Describe,,Low HP |High base Damage |High base Speed,낮은 체력|높은 기본 공격력|매우 빠른 이동속도
+Enemy_Quadrangle_Name,,Quadrangle,사각별
+Enemy_Quadrangle_Describe,,V.low HP|Split a lot Mini Quadrangle after dead |Number of splits based on size,매우 낮은 체력|사망 시 소형 사각별로 분열|체형이 클수록 더 많이 분열
+Enemy_Hexagon_Name,,Hexagon,육각형
+Enemy_Hexagon_Describe,,V.High HP|Low base Speed|Immune deceleration and freeze effect,매우 높은 체력|낮은 이동속도|감속 및 빙결 효과 면역
+Enemy_Explosion_Name,,Bomb,폭탄
+Enemy_Explosion_Describe,,Medium HP|Explosion after dead|explosion range is based on size,중간 체력|사망 시 폭발|체형이 클수록 폭발 범위 증가
+Enemy_Hexagram_Name,,Hexagram,육각별
+Enemy_Hexagram_Describe,,Medium HP|Launches Mini Hexagram bullet after dead|Number of bullet is based on size,중간 체력|사망 시 소형 육각별 탄환 발사|체형이 클수록 탄환 증가
+Enemy_Elliptic_Name,,Elliptic,타원
+Enemy_Elliptic_Describe,,Medium HP|Possesses a fixed Damage Reduction value|Damage Reduction is based on size,중간 체력|고정 데미지 감소 보유|체형이 클수록 감소량 증가
+Enemy_Moon_Name,,Moon,달
+Enemy_Moon_Describe,,Medium HP|Heal an enemy after dead|Treatment effect is based on size,중간 체력|사망 시 근처의 적 1체 치유|체형이 클수록 치유 효과 증가
+Enemy_Droplet_Name,,Drip,물방울
+Enemy_Droplet_Describe,,Medium HP |Have Maximum damage taken (immune to damage beyond) |Maximum damage is based on size,중간 체력|받는 데미지 상한 보유 (초과 데미지 무시)|체형이 클수록 상한 감소
+Enemy_Pointer_Name,,Needle,바늘
+Enemy_Pointer_Describe,,"Low HP |low initial speed, but it will increase with time |first inpact causes AOE damage |Impact strength is based on size","낮은 체력|초기 속도가 낮지만 점점 빨라짐|첫 충돌 시 범위 데미지|체형이 클수록 충돌 효과 증가"
+Enemy_Star_Name,,Star,별
+Enemy_Star_Describe,,Low hp|split Mini Star when damage taken,낮은 체력|데미지를 받으면 소형 별 생성
+Enemy_Fortress_Name,,Fort,요새
+Enemy_Fortress_Describe,,Medium HP |Trapezoid that can block Bullets will be generated in case of death |Trapezoid strength is based on body size,중간 체력|사망 시 탄환을 막는 사다리꼴 방벽 생성|체형이 클수록 방벽 강화
+Enemy_Trapezoid_Name,,Trapezoid,사다리꼴
+Enemy_Trapezoid_Describe,,High HP |It won't be attacked by the tower |not move and attack |self destruct after a period of time,높은 체력|이동하지 않으며 공격받지 않음|일반 탄환 차단|일정 시간 후 자폭
+Enemy_Cloud_Name,,Cloud,구름
+Enemy_Cloud_Describe,,Medium HP|Has stealth effect and will not be directly locked by Towers,중간 체력|은신 효과가 있어 방어탑에 직접 포착되지 않음
+Enemy_Ghost_Name,,Ghost,유령
+Enemy_Ghost_Describe,,"Will not die, will not move, and will not attack the Tower","죽지 않고, 움직이지 않으며, 방어탑을 공격하지 않음"
+LevelBuff_MaxSunTowerLevel_Name,,Sun Tower max level limited,일광탑 최대 등급 제한
+LevelBuff_MaxSunTowerLevel_Describe,,Max Level of Sun Tower is  {x},일광탑의 최대 등급이 {x}로 제한됩니다
+LevelBuff_SelectTower_Name,,Additional deployment,재배치
+LevelBuff_SelectTower_Describe,,Select and Deploy Towers again,방어탑을 다시 선택하고 배치합니다
+LevelBuff_Eclipse_Name,,Eclipse,일식
+LevelBuff_Eclipse_Describe,,Sun Tower will breaked after it take damage,일광탑이 데미지를 받으면 즉시 파괴됩니다
+LevelBuff_Cloudy_Name,,Cloudy,흐림
+LevelBuff_Cloudy_Describe,,Sun Tower will no longer production Golds and Crystals,일광탑이 더 이상 골드와 크리스탈을 생산하지 않습니다
+LevelBuff_PolarNight_Name,,PolarNight,극야
+LevelBuff_PolarNight_Describe,,The Sun Tower will no longer Heals or Reinforces the tower and attack the Enemy until Level Cleared,"클리어 전까지 일광탑이 방어탑을 치유·강화하거나 적을 공격하지 않습니다"
+LevelBuff_MoneyCostRate_Name,,Golds costs fixed,골드 비용 보정
+LevelBuff_MoneyCostRate_Describe,,Costs of Golds will be {x} times as Normal,골드 소비량이 {x}배가 됩니다
+LevelBuff_RockCostRate_Name,,Crystals costs fixed,크리스탈 비용 보정
+LevelBuff_RockCostRate_Describe,,Costs of Crystals will be {x} times as Normal,크리스탈 소비량이 {x}배가 됩니다
+LevelBuff_TowerCooldownRate_Name,,Tower Cooldown fixed,쿨다운 보정
+LevelBuff_TowerCooldownRate_Describe,,Time of Cooldown will be {x} times as Normal,방어탑의 공격 간격이 {x}배가 됩니다
+LevelBuff_Snowy_Name,,Frozen,한랭
+LevelBuff_Snowy_Describe,,Add Freeze(Increase Attack Cooldown) to Towers.|Level of Freeze will change with Frozen Level,방어탑에 빙결 상태 부여 (공격 간격 증가)|한랭 등급이 높을수록 빙결 효과 강화
+LevelBuff_Windy_Name,,Wind,강풍
+LevelBuff_Windy_Describe,,Increase Enemies' Move Speed|Extra Speed will change with Wind Level,적의 이동속도 증가|강풍 등급이 높을수록 가속 효과 강화
+LevelBuff_Storm_Name,,Thunderstorm,뇌폭
+LevelBuff_Storm_Describe,,Random Lightning bolts that damage Towers,"무작위 낙뢰가 발생하여 방어탑에 데미지를 줍니다"
+LevelBuff_Heatwave_Name,,Heatwave,폭염
+LevelBuff_Heatwave_Describe,,Add Burn(Damage) to Towers.|Level of Burn will change with Heatwave Level,방어탑에 화상 상태 부여 (지속 데미지)|폭염 등급이 높을수록 화상 효과 강화
+ExtraLevelBuff_CardLocked_Name,,Permanent Tower,고정 타워
+ExtraLevelBuff_CardLocked_Describe,,Level will use the designated tower,지정된 방어탑으로 스테이지를 진행합니다
+ExtraLevelBuff_StandUp_Name,,Last Stand,배수의 진
+ExtraLevelBuff_StandUp_Describe,,No resource tile in the Stage,스테이지에 자원 타일이 없습니다
+ExtraLevelBuff_MapRepack_Name,,Terrain Reform,지형 개조
+ExtraLevelBuff_MapRepack_Describe,,Significant changes in the terrain of the Stage,스테이지 지형이 크게 변경됩니다
+ExtraLevelBuff_GridDecrease_Name,,Rush Hour,칸 감소
+ExtraLevelBuff_GridDecrease_Describe,,Reduced the number of ground in the Stage,스테이지의 빈 공간이 크게 줄어듭니다
+ExtraLevelBuff_LargeEnemy_Name,,Gigantism,거대화
+ExtraLevelBuff_LargeEnemy_Describe,,There is no more Small size Enemy in the Stage,스테이지에 소형 적이 출현하지 않습니다
+ExtraLevelBuff_LargestEnemy_Name,,Gigantamax,극거대화
+ExtraLevelBuff_LargestEnemy_Describe,,There is only Large size Enemy in the Stage,스테이지에 대형 적만 출현합니다
+ExtraLevelBuff_PolarNight_Name,,PolarNight,극야
+ExtraLevelBuff_PolarNight_Describe,,The Night will be more langer than Normal,매일 밤 시간이 크게 연장됩니다
+ExtraLevelBuff_Unknown_Name,,Unknown,알 수 없음
+ExtraLevelBuff_Unknown_Describe,,"This level is quite special, and detailed information is hidden","이 스테이지는 특수하여 상세 정보가 숨겨져 있습니다"
+Achievement_ClearStage1_4_C0_Name,,A Hard Work,고된 전투
+Achievement_ClearStage1_4_C0_Describe,,Clear Stage 1-4 (Campaign),스테이지 1-4 클리어 (캠페인)
+Achievement_ClearStage1_8_C0_Name,,Saving the Peninsula,반도 해방
+Achievement_ClearStage1_8_C0_Describe,,Clear Stage 1-8 (Campaign),스테이지 1-8 클리어 (캠페인)
+Achievement_ClearStage2_4_C0_Name,,Frozen Throne,얼어붙은 왕좌
+Achievement_ClearStage2_4_C0_Describe,,Clear Stage 2-4 (Campaign),스테이지 2-4 클리어 (캠페인)
+Achievement_ClearStage2_8_C0_Name,,Top of the World,세계의 정상
+Achievement_ClearStage2_8_C0_Describe,,Clear Stage 2-8 (Campaign),스테이지 2-8 클리어 (캠페인)
+Achievement_ClearStage3_4_C0_Name,,Mountains and Rivers,산수일선
+Achievement_ClearStage3_4_C0_Describe,,Clear Stage 3-4 (Campaign),스테이지 3-4 클리어 (캠페인)
+Achievement_ClearStage3_8_C0_Name,,The Great Wall,만리장성
+Achievement_ClearStage3_8_C0_Describe,,Clear Stage 3-8 (Campaign),스테이지 3-8 클리어 (캠페인)
+Achievement_ClearStage4_4_C0_Name,,Endless Plain,끝없는 평원
+Achievement_ClearStage4_4_C0_Describe,,Clear Stage 4-4 (Campaign),스테이지 4-4 클리어 (캠페인)
+Achievement_ClearStage4_8_C0_Name,,The Winter is Coming,겨울이 오고 있다
+Achievement_ClearStage4_8_C0_Describe,,Clear Stage 4-8 (Campaign),스테이지 4-8 클리어 (캠페인)
+Achievement_ClearStage5_4_C0_Name,,Ready for the Storm,폭풍 전야
+Achievement_ClearStage5_4_C0_Describe,,Clear Stage 5-4 (Campaign),스테이지 5-4 클리어 (캠페인)
+Achievement_ClearStage5_8_C0_Name,,The Great Britian,대브리튼
+Achievement_ClearStage5_8_C0_Describe,,Clear Stage 5-8 (Campaign),스테이지 5-8 클리어 (캠페인)
+Achievement_ClearStage6_4_C0_Name,,Country of Sunrise,해 뜨는 나라
+Achievement_ClearStage6_4_C0_Describe,,Clear Level 6-4 (Campaign),스테이지 6-4 클리어 (캠페인)
+Achievement_ClearStage6_8_C0_Name,,Cape of Storm,폭풍의 곶
+Achievement_ClearStage6_8_C0_Describe,,Clear Level 6-8 (Campaign),스테이지 6-8 클리어 (캠페인)
+Achievement_ClearStage7_4_C0_Name,,Crossing the Strait,해협을 건너다
+Achievement_ClearStage7_4_C0_Describe,,Clear Level 7-4 (Campaign),스테이지 7-4 클리어 (캠페인)
+Achievement_ClearStage7_8_C0_Name,,final Tower,최후의 탑
+Achievement_ClearStage7_8_C0_Describe,,Clear Level 7-8 (Campaign),스테이지 7-8 클리어 (캠페인)
+Achievement_ClearStage1_A_C0_Name,,I can't See It,보이지 않아
+Achievement_ClearStage1_A_C0_Describe,,Clear Stage 1-A (Campaign),스테이지 1-A 클리어 (캠페인)
+Achievement_ClearStage1_B_C0_Name,,Replace Your Gold Mine,금광을 교체하라
+Achievement_ClearStage1_B_C0_Describe,,Clear Stage 1-B (Campaign),스테이지 1-B 클리어 (캠페인)
+Achievement_ClearStage1_S_C0_Name,,How did You Find This?,어떻게 찾았지?
+Achievement_ClearStage1_S_C0_Describe,,Clear Stage 1-S (Campaign),스테이지 1-S 클리어 (캠페인)
+Achievement_ClearStage2_A_C0_Name,,Degrade Your Tower,방어탑 등급 하락
+Achievement_ClearStage2_A_C0_Describe,,Clear Stage 2-A (Campaign),스테이지 2-A 클리어 (캠페인)
+Achievement_ClearStage3_A_C0_Name,,Double Gold Mine,금광 두 배
+Achievement_ClearStage3_A_C0_Describe,,Clear Stage 3-A (Campaign),스테이지 3-A 클리어 (캠페인)
+Achievement_ClearStage4_A_C0_Name,,I can See It,보인다
+Achievement_ClearStage4_A_C0_Describe,,Clear Stage 4-A (Campaign),스테이지 4-A 클리어 (캠페인)
+Achievement_ClearStage5_A_C0_Name,,Range Unfreeze,범위 해빙
+Achievement_ClearStage5_A_C0_Describe,,Clear Stage 5-A (Campaign),스테이지 5-A 클리어 (캠페인)
+Achievement_ClearStageEX_8_C0_Name,,Sunset Glory,석양의 빛
+Achievement_ClearStageEX_8_C0_Describe,,Clear Level ex-8,스테이지 EX-8 클리어 (캠페인)
+Achievement_ClearStage1_1_C1_D2_Name,,Pacifist,평화주의자
+Achievement_ClearStage1_1_C1_D2_Describe,,Clear Stage 1-1 (Challenge A)  in Expert,극한 난이도로 스테이지 1-1 클리어 (도전 A)
+Achievement_ClearStage1_5_C1_D2_Name,,Recycling,재활용
+Achievement_ClearStage1_5_C1_D2_Describe,,Clear Stage 1-5 (Challenge A)  in Expert,극한 난이도로 스테이지 1-5 클리어 (도전 A)
+Achievement_ClearStage1_6_C1_D2_Name,,Multitheism,다신교
+Achievement_ClearStage1_6_C1_D2_Describe,,Clear Stage 1-6 (Challenge A)  in Expert,극한 난이도로 스테이지 1-6 클리어 (도전 A)
+Achievement_ClearStage2_4_C1_D2_Name,,Former glory,지난날의 영광
+Achievement_ClearStage2_4_C1_D2_Describe,,Clear Stage 2-4 (Challenge A)  in Expert,극한 난이도로 스테이지 2-4 클리어 (도전 A)
+Achievement_ClearStage2_7_C1_D2_Name,,Wireman,배선공
+Achievement_ClearStage2_7_C1_D2_Describe,,Clear Stage 2-7 (Challenge A)  in Expert,극한 난이도로 스테이지 2-7 클리어 (도전 A)
+Achievement_ClearStage2_8_C1_D2_Name,,Crystal Network,크리스탈 네트워크
+Achievement_ClearStage2_8_C1_D2_Describe,,Clear Stage 2-8 (Challenge A)  in Expert,극한 난이도로 스테이지 2-8 클리어 (도전 A)
+Achievement_ClearStage3_2_C1_D2_Name,,Endless Night,기나긴 밤
+Achievement_ClearStage3_2_C1_D2_Describe,,Clear Stage 3-2 (Challenge A)  in Expert,극한 난이도로 스테이지 3-2 클리어 (도전 A)
+Achievement_ClearStage3_6_C1_D2_Name,,There's something wrong,뭔가 이상하다
+Achievement_ClearStage3_6_C1_D2_Describe,,Clear Stage 3-6 (Challenge A)  in Expert,극한 난이도로 스테이지 3-6 클리어 (도전 A)
+Achievement_ClearStage3_7_C1_D2_Name,,Giant Slayer,거인 사냥꾼
+Achievement_ClearStage3_7_C1_D2_Describe,,Clear Stage 3-7 (Challenge A)  in Expert,극한 난이도로 스테이지 3-7 클리어 (도전 A)
+Achievement_ClearStage4_2_C1_D2_Name,,Boom Party!,폭탄 파티!
+Achievement_ClearStage4_2_C1_D2_Describe,,Clear Stage 4-2 (Challenge A)  in Expert,극한 난이도로 스테이지 4-2 클리어 (도전 A)
+Achievement_ClearStage4_7_C1_D2_Name,,Glass Cannon,유리 대포
+Achievement_ClearStage4_7_C1_D2_Describe,,Clear Stage 4-7 (Challenge A)  in Expert,극한 난이도로 스테이지 4-7 클리어 (도전 A)
+Achievement_ClearStage4_8_C1_D2_Name,,Dawn,여명
+Achievement_ClearStage4_8_C1_D2_Describe,,Clear Stage 4-8 (Challenge A)  in Expert,극한 난이도로 스테이지 4-8 클리어 (도전 A)
+Achievement_ClearStage5_1_C1_D2_Name,,Electrical Safety,전기 안전
+Achievement_ClearStage5_1_C1_D2_Describe,,Clear Stage 5-1 (Challenge A)  in Expert,극한 난이도로 스테이지 5-1 클리어 (도전 A)
+Achievement_ClearStage5_6_C1_D2_Name,,Complex Weather,복잡한 날씨
+Achievement_ClearStage5_6_C1_D2_Describe,,Clear Stage 5-6 (Challenge A)  in Expert,극한 난이도로 스테이지 5-6 클리어 (도전 A)
+Achievement_ClearStage5_8_C1_D2_Name,,Final Battle,결전
+Achievement_ClearStage5_8_C1_D2_Describe,,Clear Stage 5-8 (Challenge A)  in Expert,극한 난이도로 스테이지 5-8 클리어 (도전 A)
+Achievement_ClearStage6_3_C1_D2_Name,,Hurricane Center,허리케인의 눈
+Achievement_ClearStage6_3_C1_D2_Describe,,Clear Level 6-3 (Challenge A)  in Expert,극한 난이도로 스테이지 6-3 클리어 (도전 A)
+Achievement_ClearStage6_7_C1_D2_Name,,Super Acceleration,초가속
+Achievement_ClearStage6_7_C1_D2_Describe,,Clear Level 6-7 (Challenge A)  in Expert,극한 난이도로 스테이지 6-7 클리어 (도전 A)
+Achievement_ClearStage6_8_C1_D2_Name,,Warm Up,승온
+Achievement_ClearStage6_8_C1_D2_Describe,,Clear Level 6-8 (Challenge A)  in Expert,극한 난이도로 스테이지 6-8 클리어 (도전 A)
+Achievement_ClearStage7_1_C1_D2_Name,,Expand Territory,영토 개척
+Achievement_ClearStage7_1_C1_D2_Describe,,Clear Level 7-1 (Challenge A)  in Expert,극한 난이도로 스테이지 7-1 클리어 (도전 A)
+Achievement_ClearStage7_6_C1_D2_Name,,Star and Wall,별과 담장
+Achievement_ClearStage7_6_C1_D2_Describe,,Clear Level 7-6 (Challenge A)  in Expert,극한 난이도로 스테이지 7-6 클리어 (도전 A)
+Achievement_ClearStage7_8_C1_D2_Name,,After Glow of Evening Sun,석양의 여운
+Achievement_ClearStage7_8_C1_D2_Describe,,Clear Level 7-8 (Challenge A)  in Expert,극한 난이도로 스테이지 7-8 클리어 (도전 A)
+Item_CardSlot_Name,,Plots for Towers,방어탑 슬롯
+Item_CardSlot_Describe,,Plots for Tower +1,방어탑 소지 수 +1
+UI_Map_StarPanel_Name,,Stamp,휘장
+UI_Map_StarPanel_Describe,,You will get a Stamp when you finish the Stage at the first time|You can unlocked new Stage with Stamp,스테이지를 처음 클리어하면 휘장 1개를 획득합니다|휘장으로 새 스테이지를 해금할 수 있습니다
+UI_Map_CoinPanel_Name,,Funds,자금
+UI_Map_CoinPanel_Describe,,Used for research|First time finish the Stage earns a large Amount of Funds|Funds is awarded depending on the Difficulty of the Game and the Length of the Level,연구에 사용|처음 클리어 시 대량의 자금 획득|난이도와 스테이지 길이에 따라 추가 자금 지급
+UI_Map_UnlockTech_Title,,Research,연구
+UI_Map_UnlockTech_Describe,,Unlocked new research nodes|Research to make the Sun Tower even more powerful!,새로운 연구 노드가 해금되었습니다|연구를 통해 일광탑을 더욱 강화하세요!
+Tower_NormalTower_UpgradeName1,,Basic Upgrade,기본 업그레이드
+Tower_NormalTower_UpgradeName2,,Advanced Upgrade,고급 업그레이드
+Tower_DebugTower_DataName,,Test Tower,테스트 타워
+Tower_DebugTower_DetailDescribe,,2023.8.1,2023.8.1
+Tower_ArrowTower_DataName,,Arrow Tower,화살탑
+Tower_ArrowTower_DetailDescribe,,Attack enemy with arrow|Low cost|Your first tower,적에게 화살 발사|낮은 비용|당신의 첫 방어탑
+Tower_ArrowTower_UpgradeDescribe3B,,"Every Arrow Tower next to this Arrow Tower, will envoy this Towers -0.2 Attack Cooldown, up to -0.6 Attack Cooldown(3x3, Includes Corners Tower)","인접한 8칸 내 화살탑 1개당 공격 간격 -0.2초, 최대 -0.6초"
+Tower_ArrowTower_UpgradeName3A,,Burst,연사
+Tower_ArrowTower_UpgradeName3B,,Group Effect,군집 효과
+Tower_ArrowTowerTower_DataName,,Arrow Tower Tower,화살탑탑
+Tower_ArrowTowerTower_DetailDescribe,,Attack enemy with Arrow Tower|Low cost|Spawn your first tower|Who came up with this bad idea?,적에게 화살탑을 발사|낮은 비용|당신의 첫 방어탑을 발사|누가 이런 아이디어를 낸 거야?
+Tower_Cannon_DataName,,Cannon,대포
+Tower_Cannon_DetailDescribe,,Fires Shells with Penetration|Shells will Bounce back|Very Expensive,높은 관통력의 포탄 발사|포탄이 반사됨|매우 비쌈
+Tower_Cannon_UpgradeName3A,,Eject Shell,반사 포탄
+Tower_Cannon_UpgradeName3B,,Burst,연사
+Tower_GoldMine_DataName,,Gold Mine,금광
+Tower_GoldMine_DetailDescribe,,Produce Golds|Very important|Can only be built on the Gold Ore,골드 생산|매우 중요|금광 타일 위에만 건설 가능
+Tower_GoldMine_UpgradeName3A,,Better Production,생산 효율 향상
+Tower_MultipleArrowTower_DataName,,Multiple Arrow,다중 화살탑
+Tower_MultipleArrowTower_DetailDescribe,,Shot multiple arrows|Low accurate|Need Sun Tower Level II (Green),여러 화살 발사|낮은 정확도|녹색 일광탑 등급 필요
+Tower_MultipleArrowTower_UpgradeName3A,,Penetrating Shrapnel,관통 산탄
+Tower_MultipleArrowTower_UpgradeName3B,,Panoramic Coverage,광각 사격
+Tower_MiniSunTower_DataName,,Mini Sun Tower,소형 일광탑
+Tower_MiniSunTower_DetailDescribe,,"Very Important, Protect the Tower at any cost|Attack the Enemy when Sunrise","매우 중요, 어떤 대가를 치르더라도 보호하세요|해돋이 때 적에게 데미지"
+Tower_MiniSunTower_UpgradeName,,Technic Upgrade,기술 개조
+Tower_MiniSunTower_UpgradeDescribe4A,,"When the Mini Sun Tower is heavily damaged, it damages the surrounding enemies","소형 일광탑이 심각하게 손상되면, 주변 적에게 데미지를 줍니다"
+Tower_SunTower_DataName,,Sun Tower,일광탑
+Tower_SunTower_DetailDescribe,,"Very Important, Protect the Tower at any cost|Production Golds and Crystals|Attack the Enemy and Heal Every Towers when Sunrise","가장 중요합니다. 어떤 대가를 치르더라도 보호하세요|골드와 크리스탈 생산|해돋이 때 적 공격 및 방어탑 회복"
+Tower_SunTower_UpgradeName,,Technic Level Upgrade,기술 등급 상승
+Tower_SunTower_UpgradeDescribe,,"Upgrade the Sun Tower Level, and other Towers can be Upgraded to this Level","일광탑 등급을 올려 모든 방어탑의 등급 상한을 높이고, 더 많은 방어탑을 건설할 수 있습니다"
+Tower_SunTower_UpgradeDescribe4A,,"When the Sun Tower is heavily damaged, it damages the surrounding enemies","일광탑이 심각하게 손상되면, 주변 적에게 데미지를 줍니다"
+Tower_TemporaryArrowTower_DataName,,Temp Arrow,임시 화살탑
+Tower_TemporaryArrowTower_DetailDescribe,,Attack enemy with arrow|Attacking will damage itself|Low cost,적에게 화살 발사|공격 시 자신의 체력 소모|낮은 비용
+Tower_Wall_DataName,,Wall,담장
+Tower_Wall_DetailDescribe,,High HP|Can't Attack|Thwart the Enemy,높은 체력|공격 불가|적의 전진을 저지
+Tower_Wall_UpgradeDescribe3B,,Heal 600HP and Immunity any Damage in 3 Sec. when first Time the Towers HP  falls down to 0 in a Day,"치명적 데미지 시 체력 600 회복 및 3초간 무적, 하루에 최대 1회 발동"
+Tower_Wall_UpgradeName3A,,Heavy Shield,견고한 외벽
+Tower_Wall_UpgradeName3B,,First Aid,긴급 방어
+Tower_Bomb_DataName,,Bomb,폭탄
+Tower_Bomb_DetailDescribe,,Explode and destruct itself|High Damage|Can be bulit on the Path,폭발하며 자폭|높은 데미지|길 위에 설치 가능
+Tower_ReviveCrystal_DataName,,Revival Crystal,부활 크리스탈
+Tower_ReviveCrystal_DetailDescribe,,Revive up to 3 Towers within range|Reviving will damage itself|Revive the closest Tower first.,범위 내 최대 3개 방어탑 부활|부활 시 자신의 체력 소모|가까운 방어탑 우선 부활
+Tower_ThermalTower_DataName,,Heat Generator,열 발생기
+Tower_ThermalTower_DetailDescribe,,Removes Freeze from ranged Towers|Upgrade it to resist higher Frozen(weather) Level,범위 내 방어탑의 빙결 상태 해제|업그레이드하여 더 높은 한랭 등급에 대응
+Tower_ThermalTower_UpgradeName3A,,Better Heat,열 강화
+Tower_ThermalTower_UpgradeDescribe,,Heat Generator can resist higher Freeze Level,열 발생기가 더 높은 한랭 등급에 대응할 수 있습니다
+Tower_TemperatureSensor_DataName,,Photoresistor,광센서
+Tower_TemperatureSensor_DetailDescribe,,Produce Golds and Crystal and destruct itself|Produce 2xCrystals in the Day|Produce 2xGolds in the Night,"설치 즉시 골드와 크리스탈을 생산한 뒤 파괴|낮에는 크리스탈 2배 생산|밤에는 골드 2배 생산"
+Tower_FreezeCrystal_DataName,,Freezing Crystal,빙결 크리스탈
+Tower_FreezeCrystal_DetailDescribe,,"Freeze Enemy and decrease their Move Speed|Attack Enemy that isn't affect by Freeze first|It is not affected by Freeze|The higher Frozen(weather) Level, the higher damage","적을 빙결시켜 감속|빙결되지 않은 적 우선 공격|한랭 날씨에 영향받지 않음|한랭 등급이 높을수록 데미지 증가"
+Tower_FreezeCrystal_UpgradeName3A,,Absolute Zero,극한 빙결
+Tower_FreezeCrystal_UpgradeName3B,,Instant Freeze,급속 냉각
+Tower_HealCrystal_DataName,,Healing Crystal,치유 크리스탈
+Tower_HealCrystal_DetailDescribe,,Heal the Tower in the Range|High HP Regeneration|It is not affected by Freeze,범위 내 방어탑 치유|높은 체력 재생|빙결 효과에 영향받지 않음
+Tower_HealCrystal_UpgradeName3A,,Better Heal,강화 치유
+Tower_HealCrystal_UpgradeName3B,,Instant Heal,즉시 치유
+Tower_RefractiveCrystal_DataName,,Refraction Crystal,굴절 크리스탈
+Tower_RefractiveCrystal_DetailDescribe,,"Transmits Attacks from other Crystal Tower, extending their attack Range|Places other Crystal Towers within range of Refraction Crystal Tower, accessing Refraction Crystal Tower","다른 크리스탈탑의 공격을 전달하여 사거리 연장|다른 크리스탈탑을 굴절 크리스탈의 범위 안에 배치하여 연결"
+Tower_RefractiveCrystal_UpgradeName3A,,High Transport,원거리 전달
+Tower_DeepGoldMine_DataName,,Deep Gold Mine,금광 갱도
+Tower_DeepGoldMine_DetailDescribe,,Produce Gold|High Gold Production but long Produce Cooldown|It is not affected by any Weather(Including Lightning)|Can only be built on Gold Ore,골드 생산|생산량이 높지만 간격이 김|모든 날씨 효과 면역 (낙뢰 포함)|금광 타일 위에만 건설 가능
+Tower_DeepGoldMine_UpgradeName3A,,Higher Production,대량 생산
+Tower_IceGoldMine_DataName,,Glacial Gold Mine,빙결 금광
+Tower_IceGoldMine_DetailDescribe,,"Produce Golds|Short Produce Cooldown but low Gold Production|Production few Crystals in Frozen(weather), the higher Frozen(weather) Level, the shorter Crystal Produce Cooldown|It is not affected by Freeze|Can only Build on Gold Ore","골드 생산|생산 간격이 짧지만 생산량은 낮음|한랭 환경에서 소량의 크리스탈 생산, 한랭 등급이 높을수록 크리스탈 생산 간격 감소|빙결 효과 면역|금광 타일 위에만 건설 가능"
+Tower_IceGoldMine_UpgradeName3A,,Instant Produce,초고속 생산
+Tower_IceGoldMine_UpgradeName3C,,Automatic Cooling,자동 냉각
+Tower_CrystalMine_DataName,,Crystal Mine,크리스탈 광산
+Tower_CrystalMine_DetailDescribe,,Production Crystals|Can only Build on Crystal Ore|It is not affected by Freeze,크리스탈 생산|크리스탈 광석 타일 위에만 건설 가능|빙결 효과 면역
+Tower_CrystalMine_UpgradeName3A,,Rapid Production,고속 생산
+Tower_SpotlightCrystal_DataName,,Laser Crystal,레이저 크리스탈
+Tower_SpotlightCrystal_DetailDescribe,,"Attack Enemy with Ray|Low cost, relatively weak|It is not affected by Freeze","광선으로 적 공격|낮은 비용, 비교적 약함|빙결 효과 면역"
+Tower_SpotlightCrystal_UpgradeName3A,,Rapid Attack,고속 사격
+Tower_SpotlightCrystal_UpgradeName3B,,Spotlight Effect,집광 효과
+Tower_SpotlightCrystal_UpgradeDescribe3B,,"Every Laser Crystal next to this Laser Crystal, will envoy this Towers +20 Damage, up to 60 Damage(3x3, Includes Corners Tower)","인접한 8칸 내 레이저 크리스탈 1개당 공격력 +20, 최대 3회 중첩"
+Tower_MiniBomb_DataName,,Mini Bomb,소형 폭탄
+Tower_MiniBomb_DetailDescribe,,"Explode and destruct itself|Low Damage, low Explosion Radius, but low Cost|Can be built on the Path","폭발하며 자폭|낮은 데미지와 폭발 범위, 하지만 비용도 저렴|길 위에 설치 가능"
+Tower_IceBomb_DataName,,Freezing Bomb,빙결 폭탄
+Tower_IceBomb_DetailDescribe,,"Explode and destruct itself|Explosion has no Damage, but it can Freeze Enemy and decrease their Move Speed|Completely Freeze enemy in Frozen(weather), the Completely Freeze time depends on the Level of Frozen(weather)","폭발하며 자폭|데미지는 없지만 적을 빙결시켜 감속|한랭 날씨에서는 적을 완전히 빙결, 한랭 등급이 높을수록 빙결 시간 증가"
+Tower_BarbedWall_DataName,,Barbed Wall,가시 담장
+Tower_BarbedWall_DetailDescribe,,Damge the Enemy when Enemy damage it|Against Low HP Enemy,적의 공격을 받으면 적에게 데미지|낮은 체력의 적에게 효과적
+Tower_BarbedWall_UpgradeName3A,,Better Wall,견고한 담장
+Tower_BarbedWall_UpgradeName3B,,Sharp Barb,날카로운 가시
+Tower_TemporaryHealCrystal_DataName,,Temp Healing Crystal,임시 치유 크리스탈
+Tower_TemporaryHealCrystal_DetailDescribe,,Heal the Tower within Range|Healing will damage itself|Low Cost|It is not affected by Freeze,범위 내 방어탑 빠르게 치유|치유 시 자신의 체력 소모|낮은 비용|빙결 효과 면역
+Tower_PowerBomb_DataName,,Mega Bomb,고폭 폭탄
+Tower_PowerBomb_DetailDescribe,,"Explode and destruct itself|The larger Enemy, the higher Damage|Can be built on the Path","폭발하며 자폭|적의 체형이 클수록 높은 데미지|길 위에 설치 가능"
+Tower_GiantBomb_DataName,,Giant Bomb,거대 폭탄
+Tower_GiantBomb_DetailDescribe,,Explode and destruct itself|Shoot bullets with Infinitely Penetratation Times in eight directions after the explosion|Can be bulit on the Path,폭발하며 자폭|폭발 시 8방향으로 무한 관통 탄환 발사|길 위에 설치 가능
+Tower_StrengthArrowTower_DataName,,LongBow Tower,장궁탑
+Tower_StrengthArrowTower_DetailDescribe,,Attack enemy with arrow|High Damage but long Attack Cooldown|Against High HP Enemy,적에게 화살 발사|높은 데미지이지만 긴 공격 간격|높은 체력의 적에게 효과적
+Tower_StrengthArrowTower_UpgradeName3A,,Sharp Arrow,날카로운 화살
+Tower_StrengthArrowTower_UpgradeName3B,,Penetration Arrow,관통 거궁
+Tower_Crossbow_DataName,,Crossbow,연노
+Tower_Crossbow_DetailDescribe,,Attack enemy with arrow|Low Damage but short Attack Cooldown|Wide Range,적에게 화살 발사|낮은 데미지이지만 짧은 공격 간격|넓은 사거리
+Tower_Crossbow_UpgradeName3A,,Sharp Arrow,강화 화살
+Tower_Crossbow_UpgradeName3B,,Solitary Effect,독거 효과
+Tower_Crossbow_UpgradeDescribe3B,,"If there are NO other Crossbows next to this crossbow, Damage +20 (3x3, Includes Corners Tower)","인접한 8칸에 다른 연노가 없으면 공격력 +20"
+Tower_WindAccelerator_DataName,,Wind Converter,풍력 가속기
+Tower_WindAccelerator_DetailDescribe,,Reduce Towers' Attack Cooldown near the Wind Converter (except productive towers)|Upgrade it to increase the Level of Wind(weather) it can convert,주변 방어탑의 공격 간격 감소 (자원 생산 건물 제외)|업그레이드하여 더 높은 강풍 등급에 대응
+Tower_WindAccelerator_UpgradeName3A,,Extreme Conversion,극한 풍력 활용
+Tower_WindAccelerator_UpgradeDescribe,,"Now, the Wind Converter can convert Higher Wind Level","풍력 가속기가 더 높은 강풍 등급을 활용할 수 있습니다"
+Tower_ArmedGoldMine_DataName,,Armed Gold Mine,무장 금광
+Tower_ArmedGoldMine_DetailDescribe,,"Produce Golds like Gold Mine, and Attack Enemies like Arrow Tower|Has the same Gold Production and Production Cooldown as Gold Mine, but upgrades require more Gold|The higher Gold Production, the higher Damage.|Damage and Attack Cooldown vary with Tower's Level","금광처럼 골드 생산, 화살탑처럼 적 공격|생산 효율은 금광과 동일하나 업그레이드 비용이 높음|공격력과 공격 간격은 등급에 따라 변화|전방 배치에 적합"
+Tower_ArmedGoldMine_UpgradeName3A,,Production Improve,생산 효율 향상
+Tower_HeroTower_DataName,,X-Laser Tower,집속탑
+Tower_HeroTower_DetailDescribe,,"Attack Enemy with Ray|Burst+1 when it Attack the same Enemy, up to 10 times Damage each Attack|Attack Enemy that has highest HP first","에너지 광선으로 적 공격|같은 적을 계속 공격 시 연사 횟수 증가, 최대 10연사|체력이 가장 높은 적 우선 공격"
+Tower_HeroTower_UpgradeName3A,,Damage Burst,작열 광선
+Tower_HeroTower_UpgradeName3B,,Quick Charge,고속 충전
+Tower_HeroTower_UpgradeDescribe3A,,"Burst+2 when Attack the same Enemy, the maximum number of Burst is increased to 20","같은 적 공격 시 연사 +2 추가, 최대 연사 횟수 20으로 증가"
+Tower_HeroTower_UpgradeDescribe3B,,The number of Burst is always the maximum value,연사 횟수가 항상 최대치입니다
+Tower_Rampart_DataName,,Rampart,성벽
+Tower_Rampart_DetailDescribe,,High Defense Wall,방어력이 극도로 높은 벽
+Tower_WizardTower_DataName,,Wizard Tower,마법탑
+Tower_WizardTower_DetailDescribe,,Attack with Explosive Missiles|The maximum number of enemies damaged by each explosion is equal to the Shrapnel Number,폭발하는 마법 탄환으로 공격|1회 폭발당 최대 피해 적 수는 파편 수에 의해 결정
+Tower_WizardTower_UpgradeName3A,,High-Mana Missile,고에너지 탄환
+Tower_WizardTower_UpgradeName3B,,Multiple Missile,분열 탄환
+Tower_CastTower_DataName,,Mini Mortar,소형 박격포
+Tower_CastTower_DetailDescribe,,"Launch the Bullet that can fly over the Hill|Wide Range, but unable to find enemies that are too close","산을 넘는 포물선 탄환 발사|넓은 사거리, 하지만 가까운 적은 공격 불가"
+Tower_CastTower_UpgradeName3A,,Mega Bullet,거대 포탄
+Tower_CastTower_UpgradeName3B,,Rapid Launcher,고속 발사
+Tower_MegaCastTower_DataName,,Multi Mortar,대형 박격포
+Tower_MegaCastTower_DetailDescribe,,"Launch abundant Bullets that can fly over the Hill|Low Accuracy and long Attack Cooldown|Very Long Range, but unable to find enemies that are too close","산을 넘는 다수의 포물선 탄환 발사|낮은 정확도와 긴 공격 간격|매우 넓은 사거리, 하지만 가까운 적은 공격 불가"
+Tower_MegaCastTower_UpgradeName3A,,Bombardment Zone,광역 폭격
+Tower_MegaCastTower_UpgradeName3B,,Long-Range shot,초장거리 타격
+Tower_MegaCastTower_UpgradeDescribe3B,,"Min Range+2, +10 damage when attacking enemies across mountains","최소 사거리 +2.5, 산을 넘어 적 공격 시 데미지 +10"
+Tower_BullerProofWall_DataName,,Bulletproof Wall,방탄 담장
+Tower_BullerProofWall_DetailDescribe,,Fixed non-collision damage to 5|Low HP,비충돌 데미지가 5로 고정|낮은 체력
+Tower_BullerProofWall_UpgradeName3A,,Self Repair,자가 수리
+Tower_BullerProofWall_UpgradeName3B,,Heavy Shield,견고한 담장
+Tower_BullerProofWall_UpgradeDescribe3B,,Fixed non collision damage to 0,비충돌 데미지를 더 이상 받지 않습니다
+Tower_TemporaryFireCyrstal_DataName,,Temp Lava Crystal,임시 용암 크리스탈
+Tower_TemporaryFireCyrstal_DetailDescribe,,Burn Enemy and decrease their HP for some time|Damage cannot be reduced|Attacking will damage itself|It is not affected by Freeze and Burn|Attack the Enemy that not in Burn,적에게 광선을 발사하여 화상 부여|데미지 감소 불가|공격 시 자신의 체력 소모|빙결·화상 효과 면역|화상이 없는 적만 공격
+Tower_FireCyrstal_DataName,,Lava Crystal,용암 크리스탈
+Tower_FireCyrstal_DetailDescribe,,"Burn Enemy and decrease their HP for some time|Damage cannot be reduced|It is not affected by Freeze and Burn|Attack the Enemy that not in Burn first||The higher Heatwave(weather) Level, the higher Burn Time","적에게 광선을 발사하여 화상 부여|데미지 감소 불가|빙결·화상 효과 면역|화상이 없는 적 우선 공격|폭염 등급이 높을수록 화상 시간 증가"
+Tower_FireCyrstal_UpgradeName3A,,Ultra-Temperature,화염 강화
+Tower_FireCyrstal_UpgradeName3B,,Rapid Heating-up,급속 가열
+Tower_LightningRod_DataName,,Lightning Rod,피뢰침
+Tower_LightningRod_DetailDescribe,,Protecting towers from damage by lightning|Not affected by lightning,일정 범위 내 낙뢰를 흡수|낙뢰 데미지 면역
+Tower_ZapTrap_DataName,,Zap Trap,전격 함정
+Tower_ZapTrap_DetailDescribe,,"Firing Electric Zap|Damage cannot be reduced|Destrcut after triggered|Attack the highest HP Enemy at first|The higher Level Thunderstorm(weather) is, the more time it can be triggered|Not affected by lightning","강력한 전격 발사|데미지 감소 불가|발동 후 파괴|체력이 가장 높은 적 우선 공격|뇌폭 등급이 높을수록 발동 횟수 증가|낙뢰 데미지 면역"
+Tower_MegaTesla_DataName,,Mega Tesla,초대형 전자탑
+Tower_MegaTesla_DetailDescribe,,"Damage the enemy, excess damage will split|Damage cannot be reduced|The higher Thunderstorm(weather) Level, the higher Damage|Not affected by lightning","적에게 강력한 번개 발사, 초과 데미지는 주변으로 분산|데미지 감소 불가|뇌폭 등급이 높을수록 데미지 증가|낙뢰 데미지 면역"
+Tower_MegaTesla_UpgradeName3A,,High Voltage,특고압
+Tower_MegaTesla_UpgradeName3B,,Electrostatic Discharge,정전기 방출
+Tower_Generator_DataName,,Electric Generator,발전기
+Tower_Generator_DetailDescribe,,Add Thunderstorm(weather) to towers in RangeΙUpgrade it to increase the Level of Thunderstorm(weather)|Not affected by lightning,주변 방어탑에 뇌폭 환경 제공|업그레이드하여 더 강한 전력 공급|낙뢰 데미지 면역
+Tower_Generator_UpgradeName3A,,Extra-High Voltage,초고압 송전
+Tower_Generator_UpgradeDescribe,,Electric Generator can add higher Thunderstorm(weather) Level to towers,발전기가 더 높은 뇌폭 등급을 방어탑에 제공할 수 있습니다
+Tower_ElectricWall_DataName,,Electric Wall,전기 보호막
+Tower_ElectricWall_DetailDescribe,,"Unfold square (3x3) shield, protect towers in Range  from enemies' bullets and collision damage|High HP Regeneration|The higher Thunderstorm(weather) Level, the stronger HP Regeneration|Not affected by lightning","사각형(3x3) 보호막 전개, 범위 내 방어탑을 적의 탄환·충돌 데미지로부터 보호|높은 체력 재생|뇌폭 등급이 높을수록 재생 강화|낙뢰 데미지 면역"
+Tower_ElectricWall_UpgradeName3A,,Fast charging,고속 충전
+Tower_ElectricWall_UpgradeDescribe3B,,Fixed non- collision damage to 5,비충돌 데미지가 5로 고정
+Tower_ElectricWall_UpgradeName3B,,Bulletproof Coating,방탄 코팅
+Tower_ResourceConvertor_DataName,,Mineral Converter,자원 변환기
+Tower_ResourceConvertor_DetailDescribe,,"Low Production Cooldown|When built on Gold Tile,  produce Crystal very quickly | When built on Crystal Tile,  produce Gold very quickly","짧은 생산 간격|금광 타일에 건설 시 크리스탈 고속 생산|크리스탈 광석 타일에 건설 시 골드 고속 생산"
+Tower_ResourceConvertor_UpgradeName3A,,Improve Production,생산 효율 향상
+Tower_SacredBomb_DataName,,Sacred Bomb,신성 폭탄
+Tower_SacredBomb_DetailDescribe,,"Explode and destruct itself|Heal towers in Range and add buff(immunity to any Damage, double the Damage) for a moment|Can be built on the Path","폭발하며 자폭|범위 내 방어탑 체력 회복 및 일시적으로 데미지 2배·무적 부여|길 위에 설치 가능"
+Tower_MoonTower_DataName,,Mini Moon Tower,소형 월광탑
+Tower_MoonTower_DetailDescribe,,Attack the enemy with NightLight|Heal itself and halve Attack Cooldown in the Night|It is not affected by Freeze,월광 충격으로 범위 내 적 공격|밤에는 공격 간격 절반 및 지속 체력 회복|한랭 효과 면역
+Tower_MoonTower_UpgradeName3A,,Moonlight,월광 강화
+Tower_MoonTower_UpgradeName3B,,Focused Tower,집중 고탑
+Tower_AngryFairyTower_DataName,,Angry Fairy Tower,분노한 요정탑
+Tower_AngryFairyTower_DetailDescribe,,Oh no! Now this fairy is even angrier,오 이런! 이 요정이 더 화가 났어요
+Tower_AppleTower_DataName,,Apple Tower,사과탑
+Tower_AppleTower_DetailDescribe,,"A very delicious Tower|An Apple a Day, keep the Doctor away|I create this tower because the Armed Gold Mine < Arrow Tower","매우 맛있는 방어탑!|하루에 사과 하나, 의사가 필요 없다|이 탑은 무장 금광 < 화살탑이기에 만들었습니다"
+Tower_ArrowTowerEX_DataName,,Combination Arrow Tower,조합 화살탑
+Tower_ArrowTowerEX_DetailDescribe,,"It is not affected by any Weather(Including Lightning)|Very High Upgrade Cost|Limited maximum number of simultaneous existence","어떤 날씨 효과에도 영향을 받지 않습니다 (번개 포함)|업그레이드 비용이 매우 높음|동시 존재 최대 수량 제한"
+Tower_ArrowTowerEX_UpgradeName3A,,Super Shooting,초고속 사격
+Tower_AttackRandomTower_DataName,,Attack Random Tower,공격 랜덤탑
+Tower_AttackRandomTower_DetailDescribe,,Place a Random Tower… ATK > 0,공격력이 0이 아닌 랜덤 방어탑으로 변화합니다
+Tower_BabyArrowTower_DataName,,Baby Tower,아기탑
+Tower_BabyArrowTower_DetailDescribe,,"This tower is too young to protect the Sunlight Tower, but he is very willing to learn new things!","이 탑은 아직 어려서 일광탑을 지킬 수 없지만, 새로운 것을 배우고 싶어 합니다!"
+Tower_BakaArrowTower_DataName,,Double Arrow Tower,이중 화살탑
+Tower_BakaArrowTower_DetailDescribe,,"This arrow tower dreams of becoming a multiple arrow tower, but the learning outcomes seem a bit strange","이 화살탑은 다중 화살탑이 되고 싶지만, 학습 결과가 좀 이상한 것 같습니다..."
+Tower_BakaArrowTower_UpgradeDescribe3B,,"Every Double Arrow Tower next to this Double Arrow Tower, will envoy this Towers +0.2 Attack Cooldown, up to +0.6 Attack Cooldown(3x3, Includes Corners Tower)","인접한 8칸 안에 이중 화살탑이 하나 존재할 때마다 공격 간격 +0.2초, 최대 +0.6초"
+Tower_BakaArrowTower_UpgradeName3A,,Panoramic Coverage,광각 사격
+Tower_BakaArrowTower_UpgradeName3B,,Group Effect,군집 효과
+Tower_BoobyTrap_DataName,,Booby Trap,부비트랩
+Tower_BoobyTrap_DetailDescribe,,"Explosion after being destroyed|High Damage|Can be bulit on the Path|Limited maximum number of simultaneous existence","파괴 시 폭발|높은 데미지|길 위에 설치 가능|동시 존재 최대 수량 제한"
+Tower_BookTower_DataName,,Book Tower,도감탑
+Tower_BookTower_DetailDescribe,,The information about all Towers is recorded above,모든 방어탑의 정보가 기록되어 있습니다
+Tower_BottleTower_DataName,,Bottle Tower,젖병탑
+Tower_BottleTower_DetailDescribe,,Baby Tower's Favorite Tower!,아기탑이 가장 좋아하는 방어탑!
+Tower_BottleTower_UpgradeDescribe,,"Let the Baby Towers within the range start learning, they will learn the attack methods of nearby and other towers, not able to learn defensive or temporary towers","범위 내 아기탑이 학습을 시작합니다. 주변의 다른 방어탑의 공격 방식을 학습하며, 방어형 또는 임시 방어탑은 학습하지 않습니다"
+Tower_BottleTower_UpgradeName,,Learning Time!,학습 시간!
+Tower_BugTower_DataName,,Bug Tower,버그탑
+Tower_BugTower_DetailDescribe,,"This is a BUG!|Explode and destruct itself|May lead to unexpected effects|The towers around it will participate in formula synthesis(3x3, include corners)","이것은 버그입니다!|폭발 후 데미지 발생|주변 8칸의 방어탑이 조합 합성에 참여합니다"
+Tower_CandyTowerA_DataName,,Candy Tower,사탕탑
+Tower_CandyTowerA_DetailDescribe,,"+200 MaxHealth permanently for towers in range|+5 HP Regeneration permanently for towers (HP Regeneration > 0) in range","범위 내 방어탑의 최대 체력 영구 +200|범위 내 체력 재생이 0보다 큰 방어탑의 체력 재생 영구 +5"
+Tower_CandyTowerB_DataName,,Candy Tower,사탕탑
+Tower_CandyTowerB_DetailDescribe,,+5 Damage permanently for towers (Damage > 0) in range,범위 내 공격력이 0보다 큰 방어탑의 공격력 영구 +5
+Tower_CannonEX_DataName,,Giant Cannon,거대 대포
+Tower_CannonEX_DetailDescribe,,"More powerful cannons with stronger Penetration|Very expensive|Limited maximum number of simultaneous existence","더 강력한 관통력을 가진 대포|매우 고가|동시 존재 최대 수량 제한"
+Tower_CannonEX_UpgradeName3A,,Eject Shell EX,반사 포탄 EX
+Tower_CannonEX_UpgradeName3B,,Burst EX,연사 EX
+Tower_CheeseTower_DataName,,Cheese Tower,치즈탑
+Tower_CheeseTower_DetailDescribe,,"Cheese and time, mouse and hole, final geometric shape | The newborn butterfly will gain true wisdom | 1312nd life, deep red triangle | Spirit and dreams, matter, speed and power | Before all of this, the constant of the time loop","치즈와 시간, 쥐와 구멍, 최후의 기하학적 형태|새로 태어난 나비는 진정한 지혜를 얻으리|1312번째 생명, 짙은 붉은 삼각형|정신과 꿈, 물질, 속도와 힘|이 모든 것 이전에, 시간 순환의 상수"
+Tower_CoffeeTower_DataName,,Coffee Tower,커피탑
+Tower_CoffeeTower_DetailDescribe,,"Overtime hours! The most disliked Tower |Incentivize Towers within the range, but also have some Negative effects","야근 시간! 방어탑들이 가장 싫어하는 탑|범위 내 방어탑을 독려하지만 부작용도 있습니다..."
+Tower_CoffeeTower_FlyingText,,Salary time!,월급 시간!
+Tower_Congealer_DataName,,Ice Generator,냉각탑
+Tower_Congealer_DetailDescribe,,"Removes Burn from ranged Towers|Upgrade it to resist higher Heatwave(weather) Level","범위 내 방어탑의 화상 상태를 해제합니다|업그레이드로 더 높은 폭염 등급에 대항할 수 있습니다"
+Tower_Congealer_UpgradeDescribe,,Ice Generator can resist higher Burn Level,냉각탑이 더 높은 화상 등급에 대항할 수 있습니다
+Tower_Congealer_UpgradeName3A,,Better Ice,강효 냉각
+Tower_CrystalApple_DataName,,Crystal Apple,수정 사과탑
+Tower_CrystalApple_DetailDescribe,,Speed! Up!,속도! 상승!
+Tower_CrystalWatermelonTower_DataName,,Crystal Watermelon Tower,수정 수박탑
+Tower_CrystalWatermelonTower_DetailDescribe,,"The fully ripe state of the Watermelon Tower, it's time to split it open","수박탑의 완전 성숙 상태, 이제 쪼갤 시간입니다"
+Tower_CycloneTower_DataName,,Cyclone Tower,선풍탑
+Tower_CycloneTower_DetailDescribe,,"Shoot bullets in a random direction|The higher Wind(weather) Level, the higher Bullet Number","사방으로 탄환을 발사합니다|강풍(날씨) 등급이 높을수록 탄환 수가 증가합니다"
+Tower_CycloneTower_UpgradeDescribe3B,,Cyclone Tower can reach maximum Bullet Number without Wind(weather),선풍탑이 강풍 날씨 없이도 최대 탄환 수에 도달합니다
+Tower_CycloneTower_UpgradeName3A,,Rebound Shooting,반탄 사격
+Tower_CycloneTower_UpgradeName3B,,Spin,자전
+Tower_DamageAmplifier_DataName,,DamageAmplifier,데미지 증폭기
+Tower_DamageAmplifier_DetailDescribe,,Double the damage of Towers in Range,범위 내 방어탑의 데미지를 2배로 증가시킵니다
+Tower_EarthTower_DataName,,Environmental Adaptator,환경 적응기
+Tower_EarthTower_DetailDescribe,,"Simultaneously having the effects of Heat Generator, Wind Accelerator, Lightning Rod, Electric Generator, and Ice Generator|We can no longer achieve","열 발생기, 풍력 가속기, 피뢰침, 발전기, 냉각탑의 효과를 동시에 보유|우리는 더 이상 이를 이룰 수 없다..."
+Tower_EarthTower_UpgradeDescribe,,Environmental Adaptor can resist or utilize more advanced Weather Level,환경 적응기가 더 높은 등급의 날씨를 대항하거나 활용할 수 있습니다
+Tower_EarthTower_UpgradeName3A,,Extreme Environmental Adaptation,극한 환경 적응
+Tower_EarthquakeTower_DataName,,Earthquake Tower,진동탑
+Tower_EarthquakeTower_DetailDescribe,,"Very low Attack Rang, but High burst|Suitable for dealing with small enemies","사거리가 매우 짧지만 공격 빈도가 높음|소형 적 처리에 적합"
+Tower_EarthquakeTower_UpgradeName3A,,High-frequency Wave,고주파 진동
+Tower_EarthquakeTower_UpgradeName3B,,Diffusion Wave,확산 진동
+Tower_FairyTower_DataName,,Fairy Tower,요정탑
+Tower_FairyTower_DetailDescribe,,"Hey, listen, it seems like you've made this fairy angry and need some help... I think you've seen it somewhere in the game before ..","이봐요, 들어봐요|이 요정을 화나게 한 것 같은데, 도움이 필요해요…|게임 어딘가에서 본 적 있는 것 같은데..."
+Tower_FairyTower_UpgradeName3A,,Repack Upgrade,개조 업그레이드
+Tower_FireBomb_DataName,,Fire Bomb,화염 폭탄
+Tower_FireBomb_DetailDescribe,,"Explode and destruct itself|Burn Enemy and decrease their HP|Higher Explode Damage in Frozen(weather), the Damage depends on the Level of Heatwave(weather)","폭발하며 자폭|적에게 데미지를 주고 화상 효과 부여|폭염 날씨에서 폭발 데미지 증가, 폭염 등급이 높을수록 데미지 증가"
+Tower_FirecrackerTower_DataName,,Firecracker Tower,폭죽탑
+Tower_FirecrackerTower_DetailDescribe,,"Ignite and explode | During the explosion, ignite other firecracker towers within the explosion range | In each round of explosion, each firecracker tower can be triggered at most once","점화 후 폭발|폭발 시 범위 내 다른 폭죽탑을 점화|매 폭발마다 각 폭죽탑은 최대 1회만 발동"
+Tower_FirecrackerTower_UpgradeName3A,,Strong blasting,강력 폭파
+Tower_GhostTower_DataName,,Ghost Tower,유령탑
+Tower_GhostTower_DetailDescribe,,Will be targeted by other towers,다른 방어탑의 공격 대상이 됩니다
+Tower_GoldApple_DataName,,Golden Apple,황금 사과탑
+Tower_GoldApple_DetailDescribe,,HP! Recover!,체력! 회복!
+Tower_GoldenWatermelonTower_DataName,,Golden Watermelon Tower,황금 수박탑
+Tower_GoldenWatermelonTower_DetailDescribe,,"The fully ripe state of the Watermelon Tower, it's time to split it open","수박탑의 완전 성숙 상태, 이제 쪼갤 시간입니다"
+Tower_HappyFairyTower_DataName,,Happy Fairy Tower,행복한 요정탑
+Tower_HappyFairyTower_DetailDescribe,,Now this fairy is no longer angry! He is striving to help you resist the enemies,이 요정은 더 이상 화나지 않아요! 적을 막기 위해 열심히 도와주고 있습니다!
+Tower_HappyFairyTower_FlyingTextA,,Eat!,먹어!
+Tower_HappyFairyTower_FlyingTextB,,Yummy!,맛있어!
+Tower_HappyFairyTower_FlyingTextC,,I can't bite!,못 씹겠어!
+Tower_HappyFairyTower_FlyingTextD,,That belongs to a baby,그건 아기 거야!
+Tower_HappyFairyTower_FlyingTextE,,Too sour!,너무 셔!
+Tower_HappyFairyTower_FlyingTextF,,So bitter!,너무 써!
+Tower_HappyFairyTower_FlyingTextG,,Juicy!,즙이 풍부해!
+Tower_HappyFairyTower_FlyingTextH,,Wait!,잠깐!
+Tower_HealCrystalEX_DataName,,Maintenance Tower,정비탑
+Tower_HealCrystalEX_DetailDescribe,,"Heal all towers with range|Limited maximum number of simultaneous existence","범위 내 모든 방어탑을 치유|동시 존재 최대 수량 제한"
+Tower_HealCrystalEX_UpgradeName3A,,Strong Maintenance,강력 치유
+Tower_HealthRandomTower_DataName,,Defense Random Tower,방어 랜덤탑
+Tower_HealthRandomTower_DetailDescribe,,Place a Random Tower… HP > 200,체력이 200을 초과하는 랜덤 방어탑으로 변화합니다
+Tower_HeroTowerEX_DataName,,Sniper Tower,저격탑
+Tower_HeroTowerEX_DetailDescribe,,"Very High Damage|Damage cannot be reduced|Limited maximum number of simultaneous existence","데미지가 극히 높음|데미지 감면 불가|체력이 높은 적을 우선 공격|동시 존재 최대 수량 제한"
+Tower_HeroTowerEX_UpgradeDescribe3B,,"Attacks will be blocked by enemies on the path, and the spilled damage will continue to harm enemies behind","공격이 경로 위의 적에게 막히며, 초과 데미지가 뒤에 있는 적에게 이어집니다"
+Tower_HeroTowerEX_UpgradeName3A,,Precision Sniping,정밀 저격
+Tower_HeroTowerEX_UpgradeName3B,,Piercing Shot,관통 사격
+Tower_LemonTowerEX_DataName,,Ultimate Crystal,궁극 크리스탈탑
+Tower_LemonTowerEX_DetailDescribe,,The ultimate form of crystal,크리스탈탑의 궁극 형태
+Tower_LemonTower_DataName,,Lemon Tower,레몬탑
+Tower_LemonTower_DetailDescribe,,"Launch powerful penetrating laser|PH=1 | You wouldn't want to eat it","강력한 관통 레이저 발사|PH=1|먹고 싶지는 않을 거예요"
+Tower_LockedTower_DataName,,Locked Tower,폐허탑
+Tower_LockedTower_DetailDescribe,,"Tower wreckage, consume gold to destruct","방어탑의 잔해, 골드를 소모하여 철거합니다"
+Tower_LockedTower_UpgradeDescribe,,Destruct with Gold,골드를 소모하여 해당 탑을 철거합니다
+Tower_LockedTower_UpgradeName,,Destruct,철거
+Tower_MatchTower_DataName,,Match Tower,성냥탑
+Tower_MatchTower_DetailDescribe,,"If there are Firecracker Towers within the range, ignite one of them at regular intervals","범위 내에 폭죽탑이 있으면 일정 시간마다 하나를 점화합니다"
+Tower_MegaTeslaEX_DataName,,Ultimate Tesla,궁극 전자탑
+Tower_MegaTeslaEX_DetailDescribe,,"Damage the enemy, excess damage will split|Damage cannot be reduced|Continuously scattering small currents, generating small shock waves during attacks | After upgrading, unlocking new features|Not affected by lightning|Limited maximum number of simultaneous existence","적에게 극강의 번개를 발사, 초과 데미지 분산|데미지 감면 불가|소형 전류를 지속 방출, 공격 시 소형 충격파 생성|업그레이드 시 새 특성 해금|번개 면역|동시 존재 최대 수량 제한"
+Tower_MegaTeslaEX_UpgradeDescirbe,,"In a circle of eight squares, the more towers provide Thunderstorm Weather, the more powerful the Ultimate Tesla will be(3x3, Includes Corners Tower)","주변 8칸에 뇌폭 환경을 제공하는 탑이 많을수록, 등급이 높을수록, 궁극 전자탑이 더 강력해집니다"
+Tower_MegaTeslaEX_UpgradeName3A,,Ultimate High Pressure,궁극 고압
+Tower_PauseFairyTower_DataName,,Paused Fairy Tower,정지된 요정탑
+Tower_PauseFairyTower_DetailDescribe,,Now this fairy's time has paused! All damage received will not take effect until it is resolved!,이 요정의 시간이 멈췄습니다! 해제될 때까지 받는 모든 데미지가 적용되지 않습니다!
+Tower_ResourceRandomTower_DataName,,Production Random Tower,자원 랜덤탑
+Tower_ResourceRandomTower_DetailDescribe,,"Place a Random Tower… Gold/Crystal Production> 0|Can be built on the Gold Ore or Crystal Ore","골드 또는 크리스탈 생산량이 0이 아닌 랜덤 방어탑으로 변화|금광 또는 크리스탈 광석 타일에만 설치 가능"
+Tower_ReviveCrystalEX_DataName,,Revive Crystal EX,거대 부활 크리스탈
+Tower_ReviveCrystalEX_DetailDescribe,,"Revive Towers within range, revive will not damage itself|Long Revive Cooldown|Limited maximum number of simultaneous existence","범위 내 방어탑을 부활, 부활 시 체력 소모 없음|매우 긴 공격 간격|동시 존재 최대 수량 제한"
+Tower_ReviveCrystalEX_UpgradeName3A,,Quick Charge,고속 충전
+Tower_SalaryTower_DataName,,Salary Tower,급여탑
+Tower_SalaryTower_DetailDescribe,,"Salary time! The most popular Tower |Paying salaries and incentivizing Towers within the scope for a period of time","월급 시간! 방어탑들에게 가장 인기 있는 탑|범위 내 방어탑에게 급여를 지급하고 일정 시간 독려합니다"
+Tower_SecretTower_DataName,,Copy Tower,복제탑
+Tower_SecretTower_DetailDescribe,,"In the list of Selected Towers, change to the Tower you previously selected|If the Copy Tower is at the top of the list, randomly change to a Tower that has already been obtained","방어탑 선택 목록에서 직전에 선택한 방어탑으로 변화|복제탑이 목록 맨 위에 있으면 이미 획득한 방어탑 중 하나로 랜덤 변화"
+Tower_SignTower_DataName,,Sign Tower,표지판탑
+Tower_SignTower_DetailDescribe,,It's just a Sign that for Nothing,그냥 표지판일 뿐입니다. 아무 효과 없음
+Tower_SignTower_UpgradeDescribe3A,,Input HAPPY in map scene,맵 화면에서 HAPPY를 입력하세요
+Tower_SignTower_UpgradeName3A,,Non Improve Upgrade,무의미한 강화
+Tower_SleepingArrowTower_DataName,,Sleeping Arrow Tower,태업 화살탑
+Tower_SleepingArrowTower_DetailDescribe,,This Arrow Tower is not satisfied with its only 80 gold salary and has started sleeping! We need to find some ways,이 화살탑은 80골드밖에 안 되는 급여에 불만을 품고 태업을 시작했습니다! 방법을 찾아야 합니다...
+Tower_SleepingArrowTower_FlyingText,,Get up!,일어나!
+Tower_SleepingArrowTower_UpgradeADescribe,,Force Arrow Tower to work overtime for a period of time,화살탑에게 일정 시간 강제 야근을 시킵니다
+Tower_SleepingArrowTower_UpgradeAName,,Work Overtime,야근
+Tower_SleepingArrowTower_UpgradeBDescribe,,Pay salary for the Arrow Tower,화살탑에게 급여를 지급합니다
+Tower_SleepingArrowTower_UpgradeBName,,Salary payment,급여 지급
+Tower_StarTower_DataName,,Mini Star Tower,소형 별빛탑
+Tower_StarTower_DetailDescribe,,"Summon falling stars to attack enemies, low Accuracy","유성을 소환하여 적을 공격, 정확도 낮음"
+Tower_StarTower_UpgradeName3A,,Meteor,유성
+Tower_SuperSecretTower_DataName,,Random Tower,랜덤탑
+Tower_SuperSecretTower_DetailDescribe,,Place a Random Tower...  No Restrictions,"랜덤 방어탑으로 변화, 제한 없음"
+Tower_TempDeepGoldMine_DataName,,Temp Deep Gold Mine,임시 금광 갱도
+Tower_TempDeepGoldMine_DetailDescribe,,"Produce Gold|High Production Speed but producing will damage itself|It is not affected by any Weather(Including Lightning)|Can only be built on Gold Ore","골드 생산|생산 속도가 빠르지만 생산 시 체력 소모|어떤 날씨 효과에도 영향받지 않음 (번개 포함)|금광 타일에만 설치 가능"
+Tower_WallEX_DataName,,Barrier,벽루
+Tower_WallEX_DetailDescribe,,"Very High HP|Limited maximum number of simultaneous existence","체력이 매우 높음|동시 존재 최대 수량 제한"
+Tower_WallEX_UpgradeDescribe3B,,The damage received will not exceed 50,1회 받는 데미지가 50을 초과하지 않습니다
+Tower_WallEX_UpgradeName3A,,Sturdy Wall,견고한 성벽
+Tower_WallEX_UpgradeName3B,,Divine Shield,신성 방패
+Tower_WarmTower_DataName,,Warm Tower,보온탑
+Tower_WarmTower_DetailDescribe,,"Add ""Frozen immunize"" permanently for towers in range",범위 내 방어탑에게 한랭 면역을 영구 부여합니다
+Tower_WatermelonTower_DataName,,Watermelon Tower,수박탑
+Tower_WatermelonTower_DetailDescribe,,"This tower's selling price will continue to rise|Can only be built on Gold Ore or Crystal Ore|This is Watermelon","판매 가격이 계속 상승합니다|금광 또는 크리스탈 광석 타일에만 설치 가능|이것은 수박입니다"
+Tower_WitchTower_DataName,,Witch Tower,마녀탑
+Tower_WitchTower_DetailDescribe,,"Launch lasers at enemies to remove their stealth status|Prioritize attacking enemies in stealth mode","적에게 레이저를 발사하여 은신 상태를 해제|은신 상태의 적을 우선 공격"
+Tower_WitchTower_UpgradeName3A,,Detector,탐지 마법
+Tower_WorkingArrowTower_DataName,,Working Arrow Tower,근면 화살탑
+Tower_WorkingArrowTower_DetailDescribe,,"This is an Arrow Tower that seems to be working very hard at present, and it is making every effort to protect the Sun Tower|The higher the Health, the higher the Damage|It could turn into a Sleeping Arrow Tower at any time","현재 매우 열심히 일하고 있는 화살탑입니다. 일광탑을 지키기 위해 최선을 다하고 있습니다!|체력이 높을수록 공격력이 높아집니다|언제든 태업 화살탑으로 변할 수 있습니다"
